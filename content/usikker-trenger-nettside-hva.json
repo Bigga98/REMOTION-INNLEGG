@@ -1,6 +1,6 @@
 {
   "id": "UsikkerTrengerNettsideHva",
-  "title": "Usikker på om du trenger ny nettside? Se hva du kan få før du bestemmer deg",
+  "title": "I8 — Usikker på om du trenger ny nettside? Se hva du kan få før du bestemmer deg",
   "group": "INNLEGG-INSTAGRAM-1",
   "format": "post",
   "videoPreset": "extended",
@@ -28,7 +28,9 @@
           }
         ],
         "subtext": "Se hva du kan få — før du bestemmer deg.",
-        "visual": { "type": "gratisUtkast" }
+        "visual": {
+          "type": "gratisUtkast"
+        }
       }
     }
   ],

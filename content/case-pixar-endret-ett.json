@@ -1,6 +1,6 @@
 {
   "id": "CasePixarEndretEtt",
-  "title": "Case: Pixar endret ETT ord på nettsiden — fikk 40% flere kunder (A/B-testing)",
+  "title": "I11 — Case: Pixar endret ETT ord på nettsiden — fikk 40% flere kunder (A/B-testing)",
   "group": "INNLEGG-INSTAGRAM-1",
   "format": "post",
   "theme": "gray",
@@ -48,7 +48,9 @@
         "body": [
           "Psykologiske triggere som knapphet og social proof skaper akutt handlingsbehov."
         ],
-        "visual": { "type": "socialProof" }
+        "visual": {
+          "type": "socialProof"
+        }
       }
     },
     {

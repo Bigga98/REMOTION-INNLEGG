@@ -1,6 +1,6 @@
 {
   "id": "ProsessenGoogleGaarIgjennom",
-  "title": "Prosessen Google går igjennom for å velge ut toppresultater",
+  "title": "I9 — Prosessen Google går igjennom for å velge ut toppresultater",
   "group": "INNLEGG-INSTAGRAM-1",
   "format": "post",
   "videoPreset": "extended",
@@ -27,7 +27,9 @@
           }
         ],
         "subtext": "Prosessen de fleste ikke kjenner til.",
-        "visual": { "type": "google" }
+        "visual": {
+          "type": "google"
+        }
       }
     },
     {
@@ -44,7 +46,9 @@
           }
         ],
         "subtext": "Crawl → Index → Rank",
-        "visual": { "type": "crawlFlow" }
+        "visual": {
+          "type": "crawlFlow"
+        }
       }
     },
     {
@@ -67,7 +71,9 @@
           }
         ],
         "subtext": "Over tid klatrer siden din oppover i Google.",
-        "visual": { "type": "searchConsole" }
+        "visual": {
+          "type": "searchConsole"
+        }
       }
     },
     {
@@ -83,7 +89,9 @@
             "fontWeight": 500
           }
         ],
-        "visual": { "type": "factorGrid" }
+        "visual": {
+          "type": "factorGrid"
+        }
       }
     },
     {
@@ -106,7 +114,9 @@
           }
         ],
         "subtext": "5 sider med konkrete funn og anbefalinger.",
-        "visual": { "type": "seoReport" }
+        "visual": {
+          "type": "seoReport"
+        }
       }
     }
   ],

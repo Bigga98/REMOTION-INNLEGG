@@ -1,6 +1,6 @@
 {
   "id": "HvordanFinneNettsidenTreg",
-  "title": "Hvordan finne ut om nettsiden din er treg for brukerne dine?",
+  "title": "I5 — Hvordan finne ut om nettsiden din er treg for brukerne dine?",
   "group": "INNLEGG-INSTAGRAM-1",
   "format": "post",
   "videoPreset": "long",
@@ -25,7 +25,9 @@
           }
         ],
         "subtext": "Sjekk det på 10 sekunder.",
-        "visual": { "type": "browser" }
+        "visual": {
+          "type": "browser"
+        }
       }
     },
     {
@@ -102,5 +104,15 @@
     }
   ],
   "caption": "Visste du at over halvparten forlater en nettside som bruker mer enn 3 sekunder på å laste?\n\nGoogle måler hastigheten din — og bruker det til å rangere deg i søk.\n\nSlik sjekker du selv:\n1. Gå til PageSpeed Insights (pagespeed.web.dev)\n2. Skriv inn domenet ditt\n3. Trykk Analysér\n\nSe på mobil-resultatet først. Over 70% av trafikken din kommer derfra.\n\nLagre dette innlegget om du vil teste det selv senere 👆",
-  "hashtags": ["nettside", "hastighet", "pagespeed", "google", "digitalmarkedsføring", "webutvikling", "smb", "bedrift", "mediegruppen"]
+  "hashtags": [
+    "nettside",
+    "hastighet",
+    "pagespeed",
+    "google",
+    "digitalmarkedsføring",
+    "webutvikling",
+    "smb",
+    "bedrift",
+    "mediegruppen"
+  ]
 }

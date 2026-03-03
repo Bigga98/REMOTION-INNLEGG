@@ -1,6 +1,6 @@
 {
   "id": "SettOppGoogleAnalytics",
-  "title": "Sett opp Google Analytics — få statistikk på hvem som besøker nettsiden din",
+  "title": "I7 — Sett opp Google Analytics — få statistikk på hvem som besøker nettsiden din",
   "group": "INNLEGG-INSTAGRAM-1",
   "format": "post",
   "videoPreset": "extended",
@@ -27,7 +27,9 @@
           }
         ],
         "subtext": "Gratis verktøy — kraftig innsikt.",
-        "visual": { "type": "analytics" }
+        "visual": {
+          "type": "analytics"
+        }
       }
     },
     {
@@ -39,10 +41,22 @@
         "titleStyle": "gradient",
         "subtitle": "Det de fleste bruker GA4 til",
         "items": [
-          { "label": "Trafikkilder", "text": "Se om folk kommer fra Google, annonser, sosiale medier eller direkte." },
-          { "label": "Brukeratferd", "text": "Hvilke sider er populære, og hvor faller folk av?" },
-          { "label": "Konverteringer", "text": "Mål det som betyr noe — kjøp, påmeldinger, skjemaer." },
-          { "label": "Enhetsrapporter", "text": "Mobil vs. desktop. Se hva kundene bruker." }
+          {
+            "label": "Trafikkilder",
+            "text": "Se om folk kommer fra Google, annonser, sosiale medier eller direkte."
+          },
+          {
+            "label": "Brukeratferd",
+            "text": "Hvilke sider er populære, og hvor faller folk av?"
+          },
+          {
+            "label": "Konverteringer",
+            "text": "Mål det som betyr noe — kjøp, påmeldinger, skjemaer."
+          },
+          {
+            "label": "Enhetsrapporter",
+            "text": "Mobil vs. desktop. Se hva kundene bruker."
+          }
         ],
         "footnote": "Alt dette er gratis."
       }
@@ -56,10 +70,22 @@
         "titleStyle": "gradient",
         "subtitle": "Funksjoner folk ikke vet om",
         "items": [
-          { "label": "Prediktiv analyse", "text": "AI som finner hvem som sannsynligvis kjøper neste uke." },
-          { "label": "Stianalyse", "text": "Se reisen fra bloggpost til handlekurv." },
-          { "label": "Anomalideteksjon", "text": "Automatisk varsel når trafikken stuper." },
-          { "label": "Scroll-dybde", "text": "Se hvor langt ned folk leser, uten kode." }
+          {
+            "label": "Prediktiv analyse",
+            "text": "AI som finner hvem som sannsynligvis kjøper neste uke."
+          },
+          {
+            "label": "Stianalyse",
+            "text": "Se reisen fra bloggpost til handlekurv."
+          },
+          {
+            "label": "Anomalideteksjon",
+            "text": "Automatisk varsel når trafikken stuper."
+          },
+          {
+            "label": "Scroll-dybde",
+            "text": "Se hvor langt ned folk leser, uten kode."
+          }
         ],
         "footnote": "Innebygd i GA4 — du trenger bare å slå det på."
       }

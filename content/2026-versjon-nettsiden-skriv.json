@@ -1,6 +1,6 @@
 {
   "id": "2026VersjonNettsidenSkriv",
-  "title": "Se en 2026-versjon av nettsiden din → skriv inn URL, få gratis utkast",
+  "title": "I10 — Se en 2026-versjon av nettsiden din → skriv inn URL, få gratis utkast",
   "group": "FERDIGE-INNLEGG",
   "format": "post",
   "theme": "gray",
@@ -25,7 +25,9 @@
         ],
         "subtext": "Skriv inn URL → få gratis utkast",
         "textTop": 270,
-        "visual": { "type": "websiteCompare" }
+        "visual": {
+          "type": "websiteCompare"
+        }
       }
     },
     {
@@ -48,7 +50,10 @@
         ],
         "textTop": 200,
         "visualDelay": -200,
-        "visual": { "type": "glassShowcase", "image": "showcase-elvemark.png" }
+        "visual": {
+          "type": "glassShowcase",
+          "image": "showcase-elvemark.png"
+        }
       }
     },
     {
@@ -64,7 +69,9 @@
           }
         ],
         "subtext": "Gå til mediegruppen.no",
-        "visual": { "type": "utkast" }
+        "visual": {
+          "type": "utkast"
+        }
       }
     }
   ],

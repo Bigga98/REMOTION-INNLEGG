@@ -1,6 +1,6 @@
 {
   "id": "VilBedreVersjonNettsiden",
-  "title": "Vil du se en bedre versjon av nettsiden din uten å betale? Følg med på vårt tilbud →",
+  "title": "I6 — Vil du se en bedre versjon av nettsiden din uten å betale? Følg med på vårt tilbud →",
   "group": "INNLEGG-INSTAGRAM-1",
   "format": "portrait",
   "videoPreset": "extended",
@@ -27,8 +27,13 @@
             "fontWeight": 500
           }
         ],
-        "steps": ["Gå til mediegruppen.no", "Skriv inn URL-en din"],
-        "visual": { "type": "utkast" }
+        "steps": [
+          "Gå til mediegruppen.no",
+          "Skriv inn URL-en din"
+        ],
+        "visual": {
+          "type": "utkast"
+        }
       }
     }
   ],
