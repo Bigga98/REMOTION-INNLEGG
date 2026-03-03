@@ -1,0 +1,127 @@
+{
+  "id": "SeoInvesteringRoi",
+  "title": "Hva kan du forvente av SEO — og når begynner pengene å komme tilbake?",
+  "group": "FERDIGE-INNLEGG",
+  "format": "post",
+  "videoPreset": "standard",
+  "theme": "gray",
+  "gradient": "teal",
+  "slides": [
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "SeoInvesteringRoiHook",
+      "props": {
+        "title": "Google Ads stopper når du slutter å betale. SEO gjør det motsatte.",
+        "titleStyle": "normal",
+        "topOffset": 260,
+        "titleSize": 64,
+        "footnote": "→"
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "SeoInvesteringRoiS2",
+      "props": {
+        "title": "Hva koster SEO i Norge?",
+        "titleStyle": "gradient",
+        "items": [
+          {
+            "label": "5 000–10 000 kr/mnd",
+            "text": "Lokal SEO for servicebedrifter."
+          },
+          {
+            "label": "10 000–30 000 kr/mnd",
+            "text": "Mellomstort byrå med tilpasset strategi."
+          },
+          {
+            "label": "30 000+ kr/mnd",
+            "text": "Full pakke med innhold, teknisk og lenkebygging."
+          }
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "SeoInvesteringRoiS3",
+      "props": {
+        "title": "Når begynner pengene å komme tilbake?",
+        "titleStyle": "gradient",
+        "items": [
+          {
+            "label": "Mnd 1–3",
+            "text": "Teknisk oppsett. Ingen synlig effekt ennå."
+          },
+          {
+            "label": "Mnd 3–6",
+            "text": "Første rangeringer og trafikk. Lokale nisjeer raskest."
+          },
+          {
+            "label": "Mnd 6–12",
+            "text": "Positiv ROI for de fleste. Kostnad per lead synker."
+          },
+          {
+            "label": "År 2",
+            "text": "SEO er billigste leadkilden du har."
+          }
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "SeoInvesteringRoiS4",
+      "props": {
+        "title": "Lokal SEO slår nasjonal SEO på avkastning — nesten alltid.",
+        "titleStyle": "gradient",
+        "body": [
+          "Lokal SEO er raskere, billigere og treffer folk som er klare til å kjøpe.",
+          "Bedrifter i Google Local Pack: 93% flere telefonsamtaler. 88% av lokale søk ender i kontakt innen 24 timer.",
+          "Nasjonal SEO har høyere tak — men krever mer tid og budsjett."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ListSlide",
+      "compositionId": "SeoInvesteringRoiS5",
+      "props": {
+        "title": "Hva kan du realistisk forvente?",
+        "titleStyle": "gradient",
+        "items": [
+          {
+            "title": "Lokal servicebedrift",
+            "desc": "Rørlegger, frisør, elektriker: 300–500% ROI innen år 2."
+          },
+          {
+            "title": "E-handel",
+            "desc": "Break-even rundt mnd 9. 300%+ på sikt."
+          },
+          {
+            "title": "B2B / rådgivning",
+            "desc": "Break-even rundt mnd 7. 700%+ gjennomsnitt."
+          },
+          {
+            "title": "Juridisk / finans",
+            "desc": "12–24 mnd til ROI — men høyest tak: 1 000%+."
+          }
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "CTASlide",
+      "compositionId": "SeoInvesteringRoiS6",
+      "props": {
+        "title": "Vil du vite hva SEO kan gi din bedrift?",
+        "badge": "GRATIS ANALYSE",
+        "instruction": "Send oss nettadressen din i DM 👇",
+        "description": "Vi ser på din nåværende synlighet på Google og forteller deg hva som er realistisk. Uten salgspress."
+      }
+    }
+  ],
+  "caption": "De fleste bedriftseiere vi snakker med betaler for Google Ads.\nHver mnd. Regningen stopper — synligheten stopper.\n\nSEO fungerer annerledes.\n\nPengene du investerer i mnd 1 er fortsatt aktive i mnd 36.\nInnholdet rangerer. Trafikken kommer. Uten ekstra kostnad per klikk.\n\nHva koster det i Norge?\nLokal SEO: 5 000–15 000 kr/mnd er vanlig for SMB-er.\n\nNår ser du resultater?\n→ Mnd 3–6: Første rangeringer\n→ Mnd 6–12: Positiv ROI for de fleste\n→ År 2: Billigste leadkilden du har\n\nFor lokale servicebedrifter er tallene spesielt gode.\nBedrifter i Google Local Pack får 93% flere telefonsamtaler.\n88% av folk som søker lokalt kontakter en bedrift innen 24 timer.\n\nSveip for å se hva som er realistisk for din type bedrift.\n\nVil du vite hvor du står akkurat nå?\nSend oss nettadressen din i DM — vi tar en titt, gratis.",
+  "hashtags": ["seo", "lokalseo", "digitalmarkedsføring", "norskbedrift", "google", "synligpågoogle", "bedriftseier", "søkemotoroptimalisering", "lokalbedrift", "mediegruppen"]
+}

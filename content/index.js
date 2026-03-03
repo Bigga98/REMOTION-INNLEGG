@@ -26,6 +26,7 @@ import syvOrdDreper from "./syv-ord-dreper.json";
 import nettsideLekkerPenger from "./nettside-lekker-penger.json";
 import konkurrentenGoogle from "./konkurrenten-google.json";
 import anmeldelserGoogleRangering from "./anmeldelser-google-rangering.json";
+import seoInvesteringRoi from "./seo-investering-roi.json";
 import animertVideoProsessenVaar from "./animert-video-prosessen-vaar.json";
 import animertVideoBytterMellom from "./animert-video-bytter-mellom.json";
 import nettsideBransjeBedriftEtter from "./nettside-bransje-bedrift-etter.json";
@@ -59,6 +60,7 @@ export const ferdigeContent = [
   nettsideLekkerPenger,
   konkurrentenGoogle,
   anmeldelserGoogleRangering,
+  seoInvesteringRoi,
 ];
 
 // INNLEGG-INSTAGRAM-1
