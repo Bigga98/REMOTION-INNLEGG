@@ -1,0 +1,119 @@
+{
+  "id": "AnmeldelserGoogleRangering",
+  "title": "Hva skjer med Google-plasseringen din når du får flere anmeldelser?",
+  "group": "FERDIGE-INNLEGG",
+  "format": "post",
+  "videoPreset": "standard",
+  "theme": "gray",
+  "gradient": "teal",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "AnmeldelserGoogleRangeringHook",
+      "props": {
+        "lines": [
+          {
+            "text": "Et treningssenter gikk fra",
+            "style": "normal",
+            "fontSize": 48,
+            "fontWeight": 500
+          },
+          {
+            "text": "21 til 240 anmeldelser.",
+            "style": "gradient",
+            "fontSize": 58,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "De ble nr. 1 på Google. På 90 dager."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "AnmeldelserGoogleRangeringS2",
+      "props": {
+        "title": "Google-anmeldelser er ikke bare «hyggelig å ha».",
+        "titleStyle": "gradient",
+        "body": [
+          "De er en rangeringsfaktor.",
+          "Og vekten øker hvert eneste år. I 2025 utgjør anmeldelser 20% av lokal Google-rangering — opp fra 16% i 2023."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "AnmeldelserGoogleRangeringS3",
+      "props": {
+        "title": "Hva som faktisk skjer når du får flere anmeldelser",
+        "titleStyle": "gradient",
+        "items": [
+          {
+            "label": "Relevans",
+            "text": "Google ser at folk stoler på deg — og rangerer deg deretter."
+          },
+          {
+            "label": "Aktivitet",
+            "text": "En aktiv profil rangeres høyere enn en som ikke oppdateres."
+          },
+          {
+            "label": "Plassering",
+            "text": "Bedrifter som doblet antall anmeldelser klatret 3–5 plasser i lokale søkeresultater."
+          }
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "AnmeldelserGoogleRangeringS4",
+      "props": {
+        "title": "Antallet er ikke det viktigste.",
+        "titleStyle": "gradient",
+        "body": [
+          "73% stoler kun på anmeldelser fra de siste 30 dagene.",
+          "Det betyr at 50 anmeldelser fra 2022 er mindre verdt enn 10 anmeldelser fra denne måneden.",
+          "Stopper flyten → begynner du å synke. Konkurrentene trenger ikke gjøre noe annerledes."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ListSlide",
+      "compositionId": "AnmeldelserGoogleRangeringS5",
+      "props": {
+        "title": "Hva du skal gjøre",
+        "titleStyle": "gradient",
+        "items": [
+          {
+            "title": "Be ALLE kunder om anmeldelse",
+            "desc": "Ikke bare de du vet er fornøyde. En negativ anmeldelse er bedre enn ingen nye."
+          },
+          {
+            "title": "Svar på ALT",
+            "desc": "Positive og negative. Google registrerer at du er aktiv og engasjert."
+          },
+          {
+            "title": "Jevn strøm — ikke skippertak",
+            "desc": "Ikke send masse-forespørsler én gang i halvåret. Jevn strøm slår alt."
+          }
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "CTASlide",
+      "compositionId": "AnmeldelserGoogleRangeringS6",
+      "props": {
+        "title": "Vil du vite hvor du står i dag?",
+        "badge": "GRATIS GJENNOMGANG",
+        "instruction": "Send oss en DM eller besøk mediegruppen.no 👇",
+        "description": "Vi sjekker Google-profilen din og gir deg en konkret plan for å klatre i lokale søk. Gratis. Uforpliktende."
+      }
+    }
+  ],
+  "caption": "Et treningssenter gikk fra 21 til 240 anmeldelser på 90 dager.\n\nDe ble nummer 1 i lokalt søk. Fikk 3× flere nye kunder.\n\nIkke fordi de betalte for annonser.\nIkke fordi de redesignet nettsiden.\n\nDe bare begynte å be om anmeldelser — systematisk.\n\nHer er det de fleste ikke vet:\n\nGoogle bryr seg ikke bare om antallet.\nDe bryr seg om HYPPIGHETEN.\n\n73% av folk stoler kun på anmeldelser fra de siste 30 dagene.\nDet betyr at 50 gamle anmeldelser er mindre verdt enn 10 nye.\n\nStopper du å få inn nye → begynner du å synke i søk.\nKonkurrentene dine trenger ikke gjøre noe annerledes.\n\nTre ting som faktisk funker:\n→ Be alle kunder — ikke bare de du vet er fornøyde\n→ Svar på alle anmeldelser, positive og negative\n→ Jevn strøm > skippertak hver sjette måned\n\nLagre dette innlegget og start i dag 👆",
+  "hashtags": ["googleanmeldelser", "lokalseo", "googlebusiness", "synlighetpånett", "digitalmarkedsføring", "lokalbedrift", "nettside", "seo", "bedriftseier", "markedsføring", "mediegruppen"]
+}

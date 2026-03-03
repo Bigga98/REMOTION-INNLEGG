@@ -25,6 +25,7 @@ import denDyresteTekstboksen from "./den-dyreste-tekstboksen.json";
 import syvOrdDreper from "./syv-ord-dreper.json";
 import nettsideLekkerPenger from "./nettside-lekker-penger.json";
 import konkurrentenGoogle from "./konkurrenten-google.json";
+import anmeldelserGoogleRangering from "./anmeldelser-google-rangering.json";
 import animertVideoProsessenVaar from "./animert-video-prosessen-vaar.json";
 import animertVideoBytterMellom from "./animert-video-bytter-mellom.json";
 import nettsideBransjeBedriftEtter from "./nettside-bransje-bedrift-etter.json";
@@ -57,6 +58,7 @@ export const ferdigeContent = [
   denDyresteTekstboksen,
   nettsideLekkerPenger,
   konkurrentenGoogle,
+  anmeldelserGoogleRangering,
 ];
 
 // INNLEGG-INSTAGRAM-1
