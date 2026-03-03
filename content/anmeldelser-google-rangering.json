@@ -8,25 +8,14 @@
   "gradient": "teal",
   "slides": [
     {
-      "type": "video",
-      "template": "HookSlide",
+      "type": "still",
+      "template": "ContentSlide",
       "compositionId": "AnmeldelserGoogleRangeringHook",
       "props": {
-        "lines": [
-          {
-            "text": "Et treningssenter gikk fra",
-            "style": "normal",
-            "fontSize": 48,
-            "fontWeight": 500
-          },
-          {
-            "text": "21 til 240 anmeldelser.",
-            "style": "gradient",
-            "fontSize": 58,
-            "fontWeight": 600
-          }
-        ],
-        "subtext": "De ble nr. 1 på Google. På 90 dager."
+        "title": "Et treningssenter gikk fra 21 til 240 anmeldelser. De ble nr. 1 på Google. På 90 dager.",
+        "titleStyle": "normal",
+        "topOffset": 380,
+        "titleSize": 72
       }
     },
     {
