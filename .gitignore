@@ -8,4 +8,4 @@ renders/
 !src/**/*.png
 dist/
 .remotion/
-build/
+# build/
