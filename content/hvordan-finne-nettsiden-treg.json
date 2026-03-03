@@ -1,0 +1,106 @@
+{
+  "id": "HvordanFinneNettsidenTreg",
+  "title": "Hvordan finne ut om nettsiden din er treg for brukerne dine?",
+  "group": "INNLEGG-INSTAGRAM-1",
+  "format": "post",
+  "videoPreset": "long",
+  "theme": "hvitLilla",
+  "gradient": "bluePurple",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "HvordanFinneNettsidenTregHook",
+      "props": {
+        "lines": [
+          {
+            "text": "Hvordan finne ut om",
+            "style": "normal"
+          },
+          {
+            "text": "nettsiden din er treg?",
+            "style": "gradient",
+            "fontSize": 70,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "Sjekk det på 10 sekunder.",
+        "visual": { "type": "browser" }
+      }
+    },
+    {
+      "type": "still",
+      "template": "ListSlide",
+      "compositionId": "HvordanFinneNettsidenTregS2",
+      "props": {
+        "title": "Slik gjør du det",
+        "titleStyle": "gradient",
+        "items": [
+          {
+            "title": "Søk «PageSpeed Insights» på Google",
+            "desc": "Eller gå rett til pagespeed.web.dev"
+          },
+          {
+            "title": "Skriv inn domenet ditt",
+            "desc": "Lim inn nettadressen din i søkefeltet"
+          },
+          {
+            "title": "Trykk Analysér",
+            "desc": "Vent noen sekunder — så får du scoren din"
+          }
+        ],
+        "footnote": "Slik tolker du resultatet →"
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "HvordanFinneNettsidenTregS3",
+      "props": {
+        "title": "Test både mobil og desktop",
+        "titleStyle": "gradient",
+        "body": [
+          "PageSpeed gir deg to resultater — én for mobil og én for datamaskin.",
+          "Start alltid med mobil. Over 70% av all nettrafikk kommer fra telefon — det er der kundene dine er."
+        ],
+        "footnote": "Mobil-scoren er nesten alltid lavere enn desktop."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ListSlide",
+      "compositionId": "HvordanFinneNettsidenTregS4",
+      "props": {
+        "title": "Hva tallene betyr",
+        "titleStyle": "gradient",
+        "items": [
+          {
+            "title": "First Contentful Paint (FCP)",
+            "desc": "Hvor lang tid det tar før brukeren ser noe på skjermen. Under 1,8s er bra."
+          },
+          {
+            "title": "Largest Contentful Paint (LCP)",
+            "desc": "Hvor lang tid det tar før hovedinnholdet er lastet. Under 2,5s er bra."
+          }
+        ],
+        "footnote": "Hvorfor er dette viktig? →"
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "HvordanFinneNettsidenTregS5",
+      "props": {
+        "title": "Treg side = tapte kunder",
+        "titleStyle": "gradient",
+        "body": [
+          "53% forlater en side som bruker mer enn 3 sekunder på å laste.",
+          "Google straffer trege sider i søkeresultatene. Det betyr færre besøkende — og færre kunder.",
+          "Er tallene dine røde? Da taper du penger hver eneste dag."
+        ]
+      }
+    }
+  ],
+  "caption": "Visste du at over halvparten forlater en nettside som bruker mer enn 3 sekunder på å laste?\n\nGoogle måler hastigheten din — og bruker det til å rangere deg i søk.\n\nSlik sjekker du selv:\n1. Gå til PageSpeed Insights (pagespeed.web.dev)\n2. Skriv inn domenet ditt\n3. Trykk Analysér\n\nSe på mobil-resultatet først. Over 70% av trafikken din kommer derfra.\n\nLagre dette innlegget om du vil teste det selv senere 👆",
+  "hashtags": ["nettside", "hastighet", "pagespeed", "google", "digitalmarkedsføring", "webutvikling", "smb", "bedrift", "mediegruppen"]
+}

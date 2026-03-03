@@ -1,0 +1,73 @@
+{
+  "id": "2026VersjonNettsidenSkriv",
+  "title": "Se en 2026-versjon av nettsiden din → skriv inn URL, få gratis utkast",
+  "group": "FERDIGE-INNLEGG",
+  "format": "post",
+  "theme": "gray",
+  "gradient": "roseRed",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "2026VersjonNettsidenSkrivHook",
+      "props": {
+        "lines": [
+          {
+            "text": "Se 2026-versjonen",
+            "style": "normal"
+          },
+          {
+            "text": "av nettsiden din.",
+            "style": "gradient",
+            "fontSize": 64,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "Skriv inn URL → få gratis utkast",
+        "textTop": 270,
+        "visual": { "type": "websiteCompare" }
+      }
+    },
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "2026VersjonNettsidenSkrivS2",
+      "videoPreset": "standard",
+      "props": {
+        "lines": [
+          {
+            "text": "Oppdater siden din",
+            "style": "normal"
+          },
+          {
+            "text": "til en nyere versjon.",
+            "style": "gradient",
+            "fontSize": 58,
+            "fontWeight": 600
+          }
+        ],
+        "textTop": 200,
+        "visualDelay": -200,
+        "visual": { "type": "glassShowcase", "image": "showcase-elvemark.png" }
+      }
+    },
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "2026VersjonNettsidenSkrivS3",
+      "videoPreset": "standard",
+      "props": {
+        "lines": [
+          {
+            "text": "Nysgjerrig på din?",
+            "style": "normal"
+          }
+        ],
+        "subtext": "Gå til mediegruppen.no",
+        "visual": { "type": "utkast" }
+      }
+    }
+  ],
+  "caption": "",
+  "hashtags": []
+}

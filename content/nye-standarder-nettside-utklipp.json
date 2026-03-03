@@ -1,0 +1,56 @@
+{
+  "id": "NyeStandarderNettsideUtklipp",
+  "title": "Nye standarder på nettside + utklipp fra Google PageSpeed",
+  "group": "INNLEGG-INSTAGRAM-1",
+  "format": "post",
+  "theme": "gray",
+  "gradient": "coral",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "NyeStandarderNettsideUtklippHook",
+      "props": {
+        "lines": [
+          {
+            "text": "Nye standarder.",
+            "style": "gradient",
+            "fontSize": 72,
+            "fontWeight": 600
+          },
+          {
+            "text": "Her er PageSpeed-scoren.",
+            "style": "normal"
+          }
+        ],
+        "subtext": "Holder nettsiden din mål?"
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "NyeStandarderNettsideUtklippS2",
+      "props": {
+        "title": "Google PageSpeed avgjør",
+        "titleStyle": "gradient",
+        "body": [
+          "Google måler hastighet, tilgjengelighet og SEO. Scorer du under 90, taper du kunder til konkurrentene."
+        ],
+        "footnote": "Sjekk scoren din i dag."
+      }
+    },
+    {
+      "type": "still",
+      "template": "CTASlide",
+      "compositionId": "NyeStandarderNettsideUtklippS3",
+      "props": {
+        "title": "Hva scorer nettsiden din?",
+        "badge": "PAGESPEED",
+        "instruction": "Skriv SCORE i kommentarfeltet:",
+        "description": "Vi sjekker PageSpeed-scoren din — gratis."
+      }
+    }
+  ],
+  "caption": "",
+  "hashtags": []
+}

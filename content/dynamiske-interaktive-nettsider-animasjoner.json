@@ -1,0 +1,56 @@
+{
+  "id": "DynamiskeInteraktiveNettsiderAnimasjoner",
+  "title": "Dynamiske/interaktive nettsider — animasjoner, blur, sticky, bevegelse",
+  "group": "INNLEGG-INSTAGRAM-1",
+  "format": "post",
+  "theme": "gray",
+  "gradient": "coral",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "DynamiskeInteraktiveNettsiderAnimasjonerHook",
+      "props": {
+        "lines": [
+          {
+            "text": "Dynamiske",
+            "style": "gradient",
+            "fontSize": 72,
+            "fontWeight": 600
+          },
+          {
+            "text": "nettsider.",
+            "style": "normal"
+          }
+        ],
+        "subtext": "Animasjoner. Blur. Bevegelse."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "DynamiskeInteraktiveNettsiderAnimasjonerS2",
+      "props": {
+        "title": "Mer enn statisk design",
+        "titleStyle": "gradient",
+        "body": [
+          "Sticky-elementer, scroll-animasjoner og interaktive effekter. Nettsider som føles levende."
+        ],
+        "footnote": "Engasjement gjennom bevegelse."
+      }
+    },
+    {
+      "type": "still",
+      "template": "CTASlide",
+      "compositionId": "DynamiskeInteraktiveNettsiderAnimasjonerS3",
+      "props": {
+        "title": "Vil du ha en dynamisk nettside?",
+        "badge": "DYNAMISK",
+        "instruction": "Send oss en DM:",
+        "description": "Vi viser deg mulighetene."
+      }
+    }
+  ],
+  "caption": "",
+  "hashtags": []
+}

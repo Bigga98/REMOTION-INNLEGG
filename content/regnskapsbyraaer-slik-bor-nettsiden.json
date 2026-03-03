@@ -1,0 +1,56 @@
+{
+  "id": "RegnskapsbyraaerSlikBorNettsiden",
+  "title": "For regnskapsbyråer: slik bør nettsiden din se ut i 2026",
+  "group": "INNLEGG-INSTAGRAM-1",
+  "format": "post",
+  "theme": "gray",
+  "gradient": "coral",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "RegnskapsbyraaerSlikBorNettsidenHook",
+      "props": {
+        "lines": [
+          {
+            "text": "Regnskapsbyrå?",
+            "style": "gradient",
+            "fontSize": 68,
+            "fontWeight": 600
+          },
+          {
+            "text": "Slik bør nettsiden se ut.",
+            "style": "normal"
+          }
+        ],
+        "subtext": "I 2026."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "RegnskapsbyraaerSlikBorNettsidenS2",
+      "props": {
+        "title": "Det kundene forventer",
+        "titleStyle": "gradient",
+        "body": [
+          "Tydelige tjenester, enkel kontakt, online booking og troverdighet gjennom design. Ikke en brosjyre fra 2015."
+        ],
+        "footnote": "Førsteinntrykket skjer på nettsiden."
+      }
+    },
+    {
+      "type": "still",
+      "template": "CTASlide",
+      "compositionId": "RegnskapsbyraaerSlikBorNettsidenS3",
+      "props": {
+        "title": "Driver du regnskapsbyrå?",
+        "badge": "REGNSKAP",
+        "instruction": "Skriv REGNSKAP i kommentarfeltet:",
+        "description": "Vi viser deg hvordan nettsiden din kan se ut — gratis."
+      }
+    }
+  ],
+  "caption": "",
+  "hashtags": []
+}

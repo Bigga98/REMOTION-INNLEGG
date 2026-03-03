@@ -1,0 +1,147 @@
+{
+  "id": "SyvOrdDreper",
+  "title": "7 ord som dreper konverteringen din",
+  "group": "INNLEGG-INSTAGRAM-1",
+  "format": "post",
+  "videoPreset": "standard",
+  "theme": "gray",
+  "gradient": "coral",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "SyvOrdDreperHook",
+      "props": {
+        "lines": [
+          {
+            "text": "7 ord på nettsiden din",
+            "style": "normal",
+            "fontSize": 52,
+            "fontWeight": 500
+          },
+          {
+            "text": "som aktivt skremmer bort kunder.",
+            "style": "gradient",
+            "fontSize": 50,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "(Basert på faktiske A/B-tester med hundretusenvis av brukere.)"
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "SyvOrdDreperS2",
+      "props": {
+        "title": "Ordet: «Submit»",
+        "titleStyle": "gradient",
+        "body": [
+          "Nettsider som bruker «Submit» som knappetekst konverterer konsekvent dårligere enn alle andre alternativer.",
+          "Det føles byråkratisk. Upersonlig. Som å levere inn et skjema på et offentlig kontor.",
+          "Bruk heller: «Send inn forespørsel» · «Få tilbud» · «Kom i gang»"
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "SyvOrdDreperS3",
+      "props": {
+        "title": "Ordet: «Spam»",
+        "titleStyle": "gradient",
+        "body": [
+          "ContentVerve testet å legge til «100% privat — vi sender aldri spam!» under et skjema.",
+          "Konverteringen falt 18,7%. Bare det å nevne ordet spam fikk folk til å tenke på spam.",
+          "Bruk heller: «Vi respekterer personvernet ditt» — eller dropp teksten helt."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "SyvOrdDreperS4",
+      "props": {
+        "title": "Ordet: «Kjøp» / «Order»",
+        "titleStyle": "gradient",
+        "body": [
+          "MatchOffice byttet «Order information» til «Get information». Resultatet: 38,26% flere henvendelser.",
+          "«Kjøp» og «Order» signaliserer forpliktelse. «Få» signaliserer verdi.",
+          "Bruk heller: «Få» · «Hent» · «Se» · «Prøv»"
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "SyvOrdDreperS5",
+      "props": {
+        "title": "Ordet: «Gratis*» (med stjerne)",
+        "titleStyle": "gradient",
+        "body": [
+          "«Gratis» er et av de sterkeste ordene i markedsføring. Men bare når det er troverdig.",
+          "Når du legger til betingelser, forbehold og liten skrift — snur effekten. Folk føler seg lurt.",
+          "Bruk heller: Vær ærlig. Hvis det er gratis, si det uten stjerne."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "SyvOrdDreperS6",
+      "props": {
+        "title": "Ordet: «Vi» (i overskriften)",
+        "titleStyle": "gradient",
+        "body": [
+          "De fleste bedrifter skriver: «Vi leverer de beste løsningene.» Kunden leser «vi, vi, vi» og tenker: dette handler ikke om meg.",
+          "Tester viser at overskrifter som snakker direkte til kunden konverterer 27–106% bedre.",
+          "Bruk heller: «Slik får du…» · «Din nye…» · «Oppdag hvordan du…»"
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "SyvOrdDreperS7",
+      "props": {
+        "title": "Ordet: «Klikk her»",
+        "titleStyle": "gradient",
+        "body": [
+          "Vagt. Uinspirerende. Sier ingenting om hva som venter.",
+          "PriceCharting byttet «Download» til «Price Guide» — konvertering økte med 621%.",
+          "Bruk heller: Beskriv hva brukeren faktisk får. «Last ned guiden» · «Se prisene» · «Book et møte»"
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "SyvOrdDreperS8",
+      "props": {
+        "title": "Frasen: «Kontakt oss for pris»",
+        "titleStyle": "gradient",
+        "body": [
+          "Nettsider som viser priser — selv «fra kr X» — konverterer opptil 15% bedre enn de som gjemmer dem.",
+          "Folk som ikke ser prisen antar det verste.",
+          "Bruk heller: Vis startpris. Vis priseksempler. Vis pakker. La folk selv vurdere."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "SyvOrdDreperS9",
+      "props": {
+        "title": "Ordene på nettsiden din har mer å si enn designet.",
+        "titleStyle": "gradient",
+        "body": [
+          "Vil du vite om nettsiden din bruker ord som bremser konverteringen?",
+          "Vi tar en gratis gjennomgang.",
+          "Send en DM eller besøk mediegruppen.no"
+        ]
+      }
+    }
+  ],
+  "caption": "De fleste tenker at nettsidedesign handler om farger og bilder.\n\nMen data fra hundrevis av A/B-tester viser noe annet:\n\nOrdene på knappene, i overskriftene og i skjemaene dine har større effekt på konverteringen enn nesten alt annet.\n\nI dette innlegget deler vi 7 ord og fraser som er bevist å skremme bort kunder — og hva du bør bruke i stedet.\n\nHvert eksempel er basert på ekte tester med ekte tall:\n→ «Submit» → konverterer dårligst av alle knappetekster\n→ Å nevne «spam» → minus 18,7%\n→ «Order» → «Get» = pluss 38%\n\nLagre dette. Del det med markedsansvarlig. Og sjekk nettsiden din.\n\nVi hjelper norske bedrifter med nettsider som faktisk konverterer. Link i bio.",
+  "hashtags": []
+}

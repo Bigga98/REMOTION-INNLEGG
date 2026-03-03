@@ -1,0 +1,56 @@
+{
+  "id": "NettsideBransjeBedriftEtter",
+  "title": "Ny nettside for [bransje] bedrift — før og etter",
+  "group": "INNLEGG-INSTAGRAM-1",
+  "format": "post",
+  "theme": "gray",
+  "gradient": "coral",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "NettsideBransjeBedriftEtterHook",
+      "props": {
+        "lines": [
+          {
+            "text": "Før og etter:",
+            "style": "normal"
+          },
+          {
+            "text": "ny nettside.",
+            "style": "gradient",
+            "fontSize": 72,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "Se forvandlingen."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "NettsideBransjeBedriftEtterS2",
+      "props": {
+        "title": "Samme bedrift — nytt inntrykk",
+        "titleStyle": "gradient",
+        "body": [
+          "En oppdatert nettside gir umiddelbar troverdighet. Kundene dømmer deg på det de ser først."
+        ],
+        "footnote": "Design er tillit."
+      }
+    },
+    {
+      "type": "still",
+      "template": "CTASlide",
+      "compositionId": "NettsideBransjeBedriftEtterS3",
+      "props": {
+        "title": "Vil du se din bedrift før og etter?",
+        "badge": "FØR/ETTER",
+        "instruction": "Send oss URL-en din:",
+        "description": "Gratis utkast — se transformasjonen."
+      }
+    }
+  ],
+  "caption": "",
+  "hashtags": []
+}

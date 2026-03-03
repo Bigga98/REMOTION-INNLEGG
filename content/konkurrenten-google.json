@@ -1,0 +1,211 @@
+{
+  "id": "KonkurrentenGoogle",
+  "title": "Konkurrenten din dukker opp først på Google. Her er hvorfor.",
+  "group": "FERDIGE-INNLEGG",
+  "format": "post",
+  "videoPreset": "standard",
+  "theme": "gray",
+  "gradient": "coral",
+  "slides": [
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "KonkurrentenGoogleS1",
+      "props": {
+        "title": "Noen søker «din bransje + din by» på Google.",
+        "titleStyle": "normal",
+        "subtitle": "Konkurrenten din dukker opp. Du gjør det ikke.",
+        "topOffset": 380,
+        "titleSize": 72
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "KonkurrentenGoogleS2",
+      "props": {
+        "title": "Google bestemmer hvem som vises basert på tre ting.",
+        "titleStyle": "gradient",
+        "items": [
+          {
+            "label": "Relevans",
+            "text": "Hvor godt profilen din matcher søket."
+          },
+          {
+            "label": "Avstand",
+            "text": "Hvor nær du er den som søker."
+          },
+          {
+            "label": "Prominens",
+            "text": "Hvor kjent og pålitelig du virker."
+          }
+        ],
+        "footnote": "Du kan ikke flytte bedriften din nærmere kunden. Men du kan kontrollere de to andre."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "KonkurrentenGoogleS3",
+      "props": {
+        "number": "1",
+        "title": "Google Business Profile er alt.",
+        "titleStyle": "gradient",
+        "body": [
+          "Den gratis bedriftsprofilen din på Google er den viktigste rangeringsfaktoren for lokale søk.",
+          "Likevel: de fleste fyller ut navnet, adressen og åpningstidene — og stopper der.",
+          "Det er som å levere en halvferdig jobbsøknad og lure på hvorfor du ikke ble kalt inn til intervju."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "KonkurrentenGoogleS4",
+      "props": {
+        "title": "Fyll ut ALT. Ikke bare det åpenbare.",
+        "titleStyle": "gradient",
+        "body": [
+          "→ Velg riktig primærkategori. «Pizzarestaurant», ikke bare «Restaurant». Spesifikt slår generelt.",
+          "→ Legg til sekundærkategorier for alt annet du tilbyr.",
+          "→ Skriv en detaljert bedriftsbeskrivelse med ordene folk faktisk søker etter.",
+          "→ Last opp bilder jevnlig. Bedrifter med bilder får 2,7× flere visninger enn de uten.",
+          "→ Publiser innlegg minst én gang i uken. Google belønner aktive profiler."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "KonkurrentenGoogleS5",
+      "props": {
+        "number": "2",
+        "title": "Anmeldelser er ikke bare hyggelig å ha. De er en rangeringsfaktor.",
+        "titleStyle": "gradient",
+        "body": [
+          "Google bruker antall, kvalitet og — dette er viktig — HYPPIGHETEN av anmeldelser for å rangere deg.",
+          "Det betyr at 50 anmeldelser fra 2022 er mindre verdt enn 10 anmeldelser fra de siste 3 månedene.",
+          "Stopper du å få nye anmeldelser, begynner rangeringen å falle. Konkurrentene trenger ikke engang å gjøre noe annerledes."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "KonkurrentenGoogleS6",
+      "props": {
+        "title": "Gjør anmeldelser til et system, ikke en tilfeldighet.",
+        "titleStyle": "gradient",
+        "body": [
+          "→ Sjekk hvor ofte toppkonkurrentene dine får anmeldelser. Sikt på det samme + 1.",
+          "→ Be ALLE kunder om en anmeldelse. En negativ anmeldelse er bedre enn ingen nye anmeldelser.",
+          "→ Svar på ALLE anmeldelser. Positive og negative. Google måler engasjementet ditt.",
+          "→ Ikke send forespørsler i skippertak hver sjette måned. Jevn strøm slår alt."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "KonkurrentenGoogleS7",
+      "props": {
+        "number": "3",
+        "title": "Nettsiden din trenger lokale sider.",
+        "titleStyle": "gradient",
+        "body": [
+          "De fleste har én «Tjenester»-side. Problemet? Google vet ikke at du tilbyr rørleggertjenester i Kristiansand, Lillesand OG Grimstad.",
+          "Lag en side per tjeneste per sted. Med unikt innhold. Med stedsnavn i overskrift, URL og tekst.",
+          "Dedikerte tjenestesider er den viktigste organiske rangeringsfaktoren for lokale søk."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "KonkurrentenGoogleS8",
+      "props": {
+        "number": "4",
+        "title": "NAP-konsistens. Kjedelig men avgjørende.",
+        "titleStyle": "gradient",
+        "body": [
+          "NAP = Navn, Adresse, Telefon. Informasjonen må være 100% identisk overalt: Google-profilen. Nettsiden. Facebook. Gule Sider. Proff.no.",
+          "Skriver du «Storgata 5» ett sted og «Storgaten 5» et annet, ser Google to forskjellige bedrifter.",
+          "Selv små avvik skaper forvirring — og forvirring betyr lavere rangering."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "KonkurrentenGoogleS9",
+      "props": {
+        "number": "5",
+        "title": "Siteringer: Vær synlig i katalogene.",
+        "titleStyle": "gradient",
+        "body": [
+          "Siteringer er oppføringer av bedriften din på andre nettsider — Gule Sider, Proff.no, Yelp, bransjekataloger, lokale nettsider.",
+          "Google bruker disse som bevis på at bedriften din er ekte og etablert.",
+          "Sjekk hvor konkurrentene dine er oppført — og sørg for at du er der også."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "KonkurrentenGoogleS10",
+      "props": {
+        "number": "6",
+        "title": "Lokale lenker = Lokale stemmer.",
+        "titleStyle": "gradient",
+        "body": [
+          "Når en lokal avis, en forening, en idrettsklubb eller en annen bedrift lenker til nettsiden din, ser Google det som en tillitserklæring.",
+          "Jo flere lokale nettsider som «stemmer» på deg, jo høyere klatrer du.",
+          "Sponsor et arrangement. Skriv en gjesteblogg. Samarbeid med andre lokale bedrifter. Delta i lokalsamfunnet — og la det vises digitalt."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "KonkurrentenGoogleS11",
+      "props": {
+        "number": "7",
+        "title": "Schema markup. Snakk Googles språk.",
+        "titleStyle": "gradient",
+        "body": [
+          "Schema markup er kode på nettsiden din som forteller Google nøyaktig hva bedriften din er, hvor den holder til, og hva den tilbyr.",
+          "Uten det må Google gjette. Med det slipper Google å gjette.",
+          "Bedrifter med LocalBusiness-schema kan dukke opp med rikere søkeresultater — åpningstider, anmeldelser og tjenester direkte i Google. Og Googles AI-svar henter informasjon herfra."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "KonkurrentenGoogleS12",
+      "props": {
+        "number": "8",
+        "title": "Mobil og hastighet. Igjen.",
+        "titleStyle": "gradient",
+        "body": [
+          "88% av forbrukere bruker Google Maps for lokale søk. Nesten alle på mobil.",
+          "Hvis nettsiden din er treg eller vanskelig å bruke på telefon, sender Google folk til konkurrenten din i stedet.",
+          "Google indekserer mobilversjonen først. Det du ser på skjermen på kontoret er ikke det kundene dine ser."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "CTASlide",
+      "compositionId": "KonkurrentenGoogleS13",
+      "props": {
+        "title": "Du trenger ikke gjøre alt på én gang.",
+        "badge": "GRATIS GJENNOMGANG",
+        "instruction": "Send oss en DM eller besøk mediegruppen.no 👇",
+        "description": "Vi gjennomgår Google-profilen din, nettsiden din og den lokale synligheten din — og gir deg en konkret plan for å klatre. Gratis. Uforpliktende."
+      }
+    }
+  ],
+  "caption": "Noen søker «din bransje + din by» på Google akkurat nå.\n\nSpørsmålet er: er det du eller konkurrenten din som dukker opp?\n\nGoogle rangerer lokale bedrifter basert på tre ting: relevans, avstand og prominens. Du kan ikke flytte bedriften din — men du kan kontrollere resten.\n\nI dette innlegget deler vi 8 konkrete ting som avgjør om du havner i toppen eller forsvinner på side 2:\n\n→ Google Business Profile — de fleste fyller bare ut halvparten\n→ Anmeldelser — hyppigheten teller mer enn antallet\n→ Lokale tjenestesider — én side per tjeneste per sted\n→ NAP-konsistens — små avvik straffer deg\n→ Siteringer i kataloger og bransjesider\n→ Lokale lenker fra troverdige kilder\n→ Schema markup som snakker Googles språk\n→ Mobiloptimalisering og hastighet\n\nDet fine er at de fleste av konkurrentene dine ikke gjør dette heller. Det betyr at selv små grep kan gi store utslag.\n\nVi hjelper lokale bedrifter med å bli synlige på Google. Link i bio for gratis gjennomgang.\n\nLagre dette innlegget. Del det med en bedriftseier som trenger det.",
+  "hashtags": []
+}

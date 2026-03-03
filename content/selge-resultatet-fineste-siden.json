@@ -1,0 +1,56 @@
+{
+  "id": "SelgeResultatetFinesteSiden",
+  "title": "Selge resultatet: fineste siden + oppdatert design + smooth animasjoner",
+  "group": "INNLEGG-INSTAGRAM-1",
+  "format": "post",
+  "theme": "gray",
+  "gradient": "coral",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "SelgeResultatetFinesteSidenHook",
+      "props": {
+        "lines": [
+          {
+            "text": "Resultatet",
+            "style": "normal"
+          },
+          {
+            "text": "snakker for seg.",
+            "style": "gradient",
+            "fontSize": 64,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "Oppdatert design. Smooth animasjoner."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "SelgeResultatetFinesteSidenS2",
+      "props": {
+        "title": "Det kunden ser",
+        "titleStyle": "gradient",
+        "body": [
+          "Moderne design, raske overganger og en side som føles profesjonell fra første sekund."
+        ],
+        "footnote": "Kvalitet synes."
+      }
+    },
+    {
+      "type": "still",
+      "template": "CTASlide",
+      "compositionId": "SelgeResultatetFinesteSidenS3",
+      "props": {
+        "title": "Vil du ha noe lignende?",
+        "badge": "RESULTAT",
+        "instruction": "Send oss en DM:",
+        "description": "Vi lager et utkast — gratis og uforpliktende."
+      }
+    }
+  ],
+  "caption": "",
+  "hashtags": []
+}

@@ -1,0 +1,117 @@
+{
+  "id": "DenDyresteTekstboksen",
+  "title": "Den dyreste tekstboksen i historien",
+  "group": "FERDIGE-INNLEGG",
+  "format": "post",
+  "videoPreset": "standard",
+  "theme": "gray",
+  "gradient": "teal",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "DenDyresteTekstboksenHook",
+      "props": {
+        "lines": [
+          {
+            "text": "Ett skjemafelt kostet dette selskapet",
+            "style": "normal",
+            "fontSize": 46,
+            "fontWeight": 500
+          },
+          {
+            "text": "96 millioner kroner i året.",
+            "style": "gradient",
+            "fontSize": 54,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "(Og det var ikke engang obligatorisk.)"
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "DenDyresteTekstboksenS2",
+      "props": {
+        "title": "Expedia hadde et felt i bookingskjemaet sitt som het «Firmanavn».",
+        "titleStyle": "gradient",
+        "body": [
+          "Problemet? Kundene trodde det var banken sin.",
+          "De skrev bankens navn, fikk feil adresse, og betalingen feilet.",
+          "Tusenvis ga opp — hver eneste dag."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "DenDyresteTekstboksenS3",
+      "props": {
+        "title": "De fjernet feltet.",
+        "titleStyle": "gradient",
+        "body": [
+          "Resultatet: 12 millioner dollar mer i omsetning.",
+          "Per. År.",
+          "Fra å slette én tekstboks."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "DenDyresteTekstboksenS4",
+      "props": {
+        "title": "Og dette er ikke et unikt tilfelle.",
+        "titleStyle": "gradient",
+        "body": [
+          "→ Et selskap reduserte skjemafelter fra 11 til 4. Konvertering økte med 120%.",
+          "→ Et annet byttet «Order information» til «Get information». 38% flere henvendelser.",
+          "→ Én nettbutikk fjernet toppmenyen fra landingssiden. Konverteringen doblet seg — fra 3% til 6%."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "DenDyresteTekstboksenS5",
+      "props": {
+        "title": "Nettsiden din har sannsynligvis elementer som koster deg kunder akkurat nå.",
+        "titleStyle": "gradient",
+        "body": [
+          "Felt ingen fyller ut. Knapper ingen trykker på. Menyer som sender folk vekk fra det de kom for.",
+          "Du ser det bare ikke — fordi du aldri har testet."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "DenDyresteTekstboksenS6",
+      "props": {
+        "title": "Det handler ikke om å ha den peneste nettsiden.",
+        "titleStyle": "gradient",
+        "body": [
+          "Det handler om å fjerne det som er i veien.",
+          "Data fra hundrevis av A/B-tester viser det samme mønsteret: Det du tar bort er viktigere enn det du legger til."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "DenDyresteTekstboksenS7",
+      "props": {
+        "title": "Lurer du på hva som bremser din nettside?",
+        "titleStyle": "gradient",
+        "body": [
+          "Vi gjennomgår nettsiden din og finner de skjulte konverteringsdreperne — helt gratis.",
+          "Send oss en DM eller klikk linken i bio."
+        ],
+        "footnote": "mediegruppen.no"
+      }
+    }
+  ],
+  "caption": "Expedia fjernet ett skjemafelt. Det ga dem 96 millioner kroner ekstra i året.\n\nIkke fordi feltet var stygt. Men fordi det forvirret kundene nok til at de ga opp.\n\nDe fleste nettsider har lignende problemer gjemt i skjemaer, menyer og knapper som aldri er blitt testet.\n\nVi har gått gjennom hundrevis av dokumenterte A/B-tester for å finne mønstrene:\n→ Færre felt = flere leads\n→ Fjernet navigasjon = dobbel konvertering\n→ Ett ord i knappen = 38% økning\n\nDet handler sjelden om redesign. Det handler om å fjerne friksjonen.\n\nLagre dette innlegget. Del det med noen som trenger det.\n\nVil du vite hva som bremser din nettside? Send oss en DM — vi tar en titt.",
+  "hashtags": []
+}

@@ -1,0 +1,73 @@
+{
+  "id": "ExamplePost",
+  "title": "Eksempel-innlegg",
+  "format": "post",
+  "theme": "gray",
+  "gradient": "coral",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "props": {
+        "lines": [
+          { "text": "Første linje her", "style": "normal" },
+          { "text": "Gradient-ord.", "style": "gradient", "fontSize": 72 }
+        ],
+        "subtext": "Denne teksten vises dempet under."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "props": {
+        "title": "Slide 2 — Kontekst",
+        "titleStyle": "gradient",
+        "body": ["Første avsnitt med informasjon.", "Andre avsnitt med mer detaljer."],
+        "footnote": "Kort oppsummering nederst."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ListSlide",
+      "props": {
+        "title": "3 viktige punkter",
+        "titleStyle": "gradient",
+        "items": [
+          { "title": "Punkt 1", "desc": "Kort beskrivelse av punkt 1." },
+          { "title": "Punkt 2", "desc": "Kort beskrivelse av punkt 2." },
+          { "title": "Punkt 3", "desc": "Kort beskrivelse av punkt 3." }
+        ],
+        "footnote": "Det er alt."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ComparisonSlide",
+      "props": {
+        "title": "Eksempel",
+        "left": {
+          "heading": "Dårlig versjon",
+          "body": "Generisk tekst som ikke sier noe konkret.",
+          "tags": ["Vagt", "Kjedelig"]
+        },
+        "right": {
+          "heading": "Bra versjon",
+          "body": "Tydelig og konkret tekst som gir verdi.",
+          "cta": "Se mer"
+        }
+      }
+    },
+    {
+      "type": "still",
+      "template": "CTASlide",
+      "props": {
+        "title": "Vil du vite mer?",
+        "badge": "GRATIS",
+        "instruction": "Skriv i kommentarfeltet:",
+        "description": "Vi gir deg en ærlig vurdering — helt gratis."
+      }
+    }
+  ],
+  "caption": "Her skriver du Instagram-caption med linjeskift.\n\nBruk hashtags på slutten.\n\n#nettside #webdesign #tips",
+  "hashtags": ["nettside", "webdesign", "tips", "digitalmarkedsføring"]
+}

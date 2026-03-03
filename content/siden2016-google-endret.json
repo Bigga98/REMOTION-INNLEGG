@@ -1,0 +1,56 @@
+{
+  "id": "Siden2016GoogleEndret",
+  "title": "Siden 2016 har Google endret algoritmen 16 ganger — her er nyeste endring",
+  "group": "INNLEGG-INSTAGRAM-1",
+  "format": "post",
+  "theme": "gray",
+  "gradient": "coral",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "Siden2016GoogleEndretHook",
+      "props": {
+        "lines": [
+          {
+            "text": "16 algoritme-endringer",
+            "style": "gradient",
+            "fontSize": 56,
+            "fontWeight": 600
+          },
+          {
+            "text": "siden 2016.",
+            "style": "normal"
+          }
+        ],
+        "subtext": "Her er den nyeste."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "Siden2016GoogleEndretS2",
+      "props": {
+        "title": "Google stopper aldri",
+        "titleStyle": "gradient",
+        "body": [
+          "Hver oppdatering endrer hvem som vises øverst. Nettsider som ikke følger med, faller bakover."
+        ],
+        "footnote": "Siste endring rammer spesielt trege sider."
+      }
+    },
+    {
+      "type": "still",
+      "template": "CTASlide",
+      "compositionId": "Siden2016GoogleEndretS3",
+      "props": {
+        "title": "Er nettsiden din oppdatert?",
+        "badge": "ALGORITME",
+        "instruction": "Skriv SEO i kommentarfeltet:",
+        "description": "Vi sjekker om du er rammet — gratis."
+      }
+    }
+  ],
+  "caption": "",
+  "hashtags": []
+}

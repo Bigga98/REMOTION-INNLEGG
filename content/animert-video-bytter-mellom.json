@@ -1,0 +1,56 @@
+{
+  "id": "AnimertVideoBytterMellom",
+  "title": "Animert video som bytter mellom nettsider (med lyd)",
+  "group": "INNLEGG-INSTAGRAM-1",
+  "format": "post",
+  "theme": "gray",
+  "gradient": "coral",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "AnimertVideoBytterMellomHook",
+      "props": {
+        "lines": [
+          {
+            "text": "Nettsider vi har",
+            "style": "normal"
+          },
+          {
+            "text": "bygget.",
+            "style": "gradient",
+            "fontSize": 80,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "Se forskjellen."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "AnimertVideoBytterMellomS2",
+      "props": {
+        "title": "Ekte resultater",
+        "titleStyle": "gradient",
+        "body": [
+          "Forskjellige bransjer, samme kvalitet. Raske, moderne og designet for å konvertere."
+        ],
+        "footnote": "Hver nettside er skreddersydd."
+      }
+    },
+    {
+      "type": "still",
+      "template": "CTASlide",
+      "compositionId": "AnimertVideoBytterMellomS3",
+      "props": {
+        "title": "Vil du ha noe lignende?",
+        "badge": "PORTFOLIO",
+        "instruction": "Send oss en DM:",
+        "description": "Vi lager et gratis utkast tilpasset din bedrift."
+      }
+    }
+  ],
+  "caption": "",
+  "hashtags": []
+}

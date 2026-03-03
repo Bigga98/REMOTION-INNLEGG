@@ -1,0 +1,56 @@
+{
+  "id": "Konkurranse",
+  "title": "Konkurranse",
+  "group": "INNLEGG-INSTAGRAM-1",
+  "format": "post",
+  "theme": "gray",
+  "gradient": "coral",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "KonkurranseHook",
+      "props": {
+        "lines": [
+          {
+            "text": "Vinn en",
+            "style": "normal"
+          },
+          {
+            "text": "gratis nettside!",
+            "style": "gradient",
+            "fontSize": 64,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "Les videre for å delta."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "KonkurranseS2",
+      "props": {
+        "title": "Slik deltar du",
+        "titleStyle": "gradient",
+        "body": [
+          "Følg @mediegruppen, lik dette innlegget, og tagg en bedriftseier i kommentarfeltet."
+        ],
+        "footnote": "Vinner trekkes om én uke."
+      }
+    },
+    {
+      "type": "still",
+      "template": "CTASlide",
+      "compositionId": "KonkurranseS3",
+      "props": {
+        "title": "Gratis nettside?",
+        "badge": "KONKURRANSE",
+        "instruction": "Tagg en venn i kommentarfeltet:",
+        "description": "Vi trekker én vinner som får en komplett nettside — gratis."
+      }
+    }
+  ],
+  "caption": "",
+  "hashtags": []
+}

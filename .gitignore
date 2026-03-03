@@ -1,0 +1,11 @@
+node_modules/
+renders/
+.DS_Store
+*.mp4
+*.mov
+*.png
+!public/**/*.png
+!src/**/*.png
+dist/
+.remotion/
+build/

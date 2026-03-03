@@ -1,0 +1,79 @@
+{
+  "id": "ForsidenTreSekunder",
+  "title": "Forsiden din har 3 sekunder — dette er det eneste som teller",
+  "format": "post",
+  "theme": "gray",
+  "gradient": "coral",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "ForsidenTreSekunderHook",
+      "props": {
+        "lines": [
+          { "text": "Forsiden din har", "style": "normal" },
+          { "text": "3 sekunder.", "style": "gradient", "fontSize": 72, "fontWeight": 600 }
+        ],
+        "subtext": "De fleste kaster bort alle tre."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "ForsidenTreSekunderS2",
+      "props": {
+        "title": "Problemet",
+        "titleStyle": "gradient",
+        "subtitle": "De fleste forsider prøver å si alt på en gang:",
+        "body": ["Tjenester, historie, ansatte, nyheter — alt over hverandre."],
+        "footnote": "Kunden ser kaos."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ListSlide",
+      "compositionId": "ForsidenTreSekunderS3",
+      "props": {
+        "title": "Hva de 3 sekundene bør inneholde",
+        "titleStyle": "gradient",
+        "items": [
+          { "title": "Hva du gjør", "desc": "Én tydelig setning. Ikke tre avsnitt." },
+          { "title": "For hvem", "desc": "Vis målgruppen at dette er for dem." },
+          { "title": "Hva de skal gjøre nå", "desc": "En knapp. En handling. Ingen tvil." }
+        ],
+        "footnote": "Det er alt."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ComparisonSlide",
+      "compositionId": "ForsidenTreSekunderS4",
+      "props": {
+        "title": "Eksempel",
+        "left": {
+          "heading": "Velkommen til vår nettside.",
+          "body": "Vi har lang erfaring med å levere kvalitetstjenester til våre kunder i hele Norge. Vi tilbyr et bredt spekter av løsninger...",
+          "tags": ["Les mer", "Kontakt", "Om oss"]
+        },
+        "right": {
+          "heading": "Vi lager nettsider for lokale bedrifter.",
+          "body": "Få et gratis utkast — se hvordan din nye nettside kan se ut.",
+          "cta": "Få gratis utkast"
+        }
+      }
+    },
+    {
+      "type": "still",
+      "template": "CTASlide",
+      "compositionId": "ForsidenTreSekunderS5",
+      "props": {
+        "title": "Er forsiden din tydelig nok?",
+        "badge": "FORSIDE",
+        "instruction": "Send oss lenken din:",
+        "description": "Vi gir deg en ærlig vurdering av forsiden din — helt gratis, ingen forpliktelser."
+      }
+    }
+  ],
+  "caption": "Forsiden din har 3 sekunder. De fleste forsider kaster bort alle tre.\n\nDe prøver å si alt: tjenester, historie, ansatte, nyheter. Men kunden vil bare vite tre ting: Hva gjør du? Er det for meg? Hva gjør jeg nå?\n\nSveip for å se hva de 3 sekundene bør brukes på.\n\nHar du en forside du er usikker på? Send oss lenken — vi gir deg en ærlig tilbakemelding.\n\n#nettside #webdesign #førsteinntrykk #bedriftseier #norskbedrift #mediegruppen",
+  "hashtags": ["nettside", "webdesign", "førsteinntrykk", "bedriftseier", "norskbedrift", "mediegruppen"]
+}

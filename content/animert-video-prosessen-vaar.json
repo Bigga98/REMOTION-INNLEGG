@@ -1,0 +1,56 @@
+{
+  "id": "AnimertVideoProsessenVaar",
+  "title": "Animert video av prosessen vår — fra brief til ferdig nettside",
+  "group": "INNLEGG-INSTAGRAM-1",
+  "format": "post",
+  "theme": "gray",
+  "gradient": "coral",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "AnimertVideoProsessenVaarHook",
+      "props": {
+        "lines": [
+          {
+            "text": "Fra brief til",
+            "style": "normal"
+          },
+          {
+            "text": "ferdig nettside.",
+            "style": "gradient",
+            "fontSize": 64,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "Slik ser prosessen vår ut."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "AnimertVideoProsessenVaarS2",
+      "props": {
+        "title": "Vår prosess",
+        "titleStyle": "gradient",
+        "body": [
+          "Brief → Design → Utvikling → Lansering. Vi tar deg gjennom hvert steg med tydelig kommunikasjon hele veien."
+        ],
+        "footnote": "Ingen overraskelser."
+      }
+    },
+    {
+      "type": "still",
+      "template": "CTASlide",
+      "compositionId": "AnimertVideoProsessenVaarS3",
+      "props": {
+        "title": "Vil du se prosessen i praksis?",
+        "badge": "PROSESS",
+        "instruction": "Send oss en DM:",
+        "description": "Vi viser deg steg for steg hva du kan forvente."
+      }
+    }
+  ],
+  "caption": "",
+  "hashtags": []
+}

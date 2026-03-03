@@ -1,0 +1,56 @@
+{
+  "id": "TingSerDumtNettsider",
+  "title": "Ting som ser dumt ut på nettsider — for smale rammer, dårlig spacing osv.",
+  "group": "INNLEGG-INSTAGRAM-1",
+  "format": "post",
+  "theme": "gray",
+  "gradient": "coral",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "TingSerDumtNettsiderHook",
+      "props": {
+        "lines": [
+          {
+            "text": "Ting som ser",
+            "style": "normal"
+          },
+          {
+            "text": "dumt ut.",
+            "style": "gradient",
+            "fontSize": 80,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "På nettsider i 2026."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "TingSerDumtNettsiderS2",
+      "props": {
+        "title": "Vanlige designtabber",
+        "titleStyle": "gradient",
+        "body": [
+          "For smale rammer, dårlig spacing, feil fontstørrelser og inkonsistente farger. Små feil som ødelegger helheten."
+        ],
+        "footnote": "Detaljene gjør forskjellen."
+      }
+    },
+    {
+      "type": "still",
+      "template": "CTASlide",
+      "compositionId": "TingSerDumtNettsiderS3",
+      "props": {
+        "title": "Har nettsiden din disse feilene?",
+        "badge": "DESIGN",
+        "instruction": "Send oss URL-en din:",
+        "description": "Vi gir deg en ærlig designvurdering — gratis."
+      }
+    }
+  ],
+  "caption": "",
+  "hashtags": []
+}

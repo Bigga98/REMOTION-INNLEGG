@@ -1,0 +1,37 @@
+{
+  "id": "VilBedreVersjonNettsiden",
+  "title": "Vil du se en bedre versjon av nettsiden din uten å betale? Følg med på vårt tilbud →",
+  "group": "INNLEGG-INSTAGRAM-1",
+  "format": "portrait",
+  "videoPreset": "extended",
+  "theme": "hvitLilla",
+  "gradient": "bluePurple",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "VilBedreVersjonNettsidenHook",
+      "props": {
+        "lines": [
+          {
+            "text": "Se en bedre versjon av",
+            "style": "normal",
+            "fontSize": 56,
+            "fontWeight": 500
+          },
+          {
+            "text": "nettsiden din. Uten å betale en krone.",
+            "style": "mixed",
+            "gradientWord": "nettsiden din.",
+            "fontSize": 56,
+            "fontWeight": 500
+          }
+        ],
+        "steps": ["Gå til mediegruppen.no", "Skriv inn URL-en din"],
+        "visual": { "type": "utkast" }
+      }
+    }
+  ],
+  "caption": "Vi lager et gratis designutkast av nettsiden din — uten forpliktelser.\n\nSlik fungerer det:\n1. Gå til mediegruppen.no\n2. Skriv inn URL-en din\n3. Vi sender deg et utkast innen 24 timer\n\nDu får se hvordan nettsiden din kan se ut med oppdatert design. Liker du det? Da tar vi en prat. Liker du det ikke? Ingen problem.\n\nLagre dette innlegget til du er klar 👆",
+  "hashtags": []
+}

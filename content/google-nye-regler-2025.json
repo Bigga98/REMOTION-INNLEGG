@@ -1,0 +1,91 @@
+{
+  "id": "GoogleNyeRegler2025",
+  "title": "Google er ikke det samme som for 2 år siden — spiller du etter gamle regler, taper du",
+  "group": "FERDIGE-INNLEGG",
+  "format": "post",
+  "videoPreset": "standard",
+  "theme": "gray",
+  "gradient": "teal",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "GoogleNyeRegler2025Hook",
+      "props": {
+        "lines": [
+          {
+            "text": "Google er ikke det samme",
+            "style": "normal",
+            "fontSize": 52,
+            "fontWeight": 500
+          },
+          {
+            "text": "som for 2 år siden.",
+            "style": "gradient",
+            "fontSize": 58,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "Spiller du etter gamle regler, taper du."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "GoogleNyeRegler2025S2",
+      "props": {
+        "title": "Google svarer nå for deg",
+        "titleStyle": "gradient",
+        "body": [
+          "AI Overviews gir brukeren svaret direkte på søkesiden — uten at de klikker inn på nettsiden din.",
+          "Zero-click searches har eksplodert. Løsningen: bli kilden Google siterer."
+        ],
+        "footnote": "Strukturert data og direkte svar på komplekse spørsmål er nøkkelen."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "GoogleNyeRegler2025S3",
+      "props": {
+        "title": "Google vil ha ekte erfaring, ikke generisk tekst",
+        "titleStyle": "gradient",
+        "body": [
+          "E-E-A-T: Google har lagt til Experience som rangeringsfaktor. En barista som har testet kaffemaskinen i 30 dager rangerer høyere enn en AI-artikkel.",
+          "Vis at du faktisk kan det du skriver om."
+        ],
+        "footnote": "Ekspertise + Autoritet + Tillit + Erfaring = synlighet i Google."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "GoogleNyeRegler2025S4",
+      "props": {
+        "title": "AI-spam er død",
+        "titleStyle": "gradient",
+        "body": [
+          "Helpful Content-oppdateringene har deindeksert tusenvis av sider som pumper ut lavkvalitets AI-innhold.",
+          "Originale data, egne bilder, egne konklusjoner — det er det som overlever. Finnes informasjonen din på 100 andre nettsider, viser ikke Google din."
+        ],
+        "footnote": "Kvalitet over kvantitet. Alltid."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "GoogleNyeRegler2025S5",
+      "props": {
+        "title": "Treig side = lavere rangering",
+        "titleStyle": "gradient",
+        "body": [
+          "Siden 2024 er Interaction to Next Paint (INP) en offisiell rangeringsfaktor. Google måler nå hvor raskt siden reagerer når noen klikker på noe.",
+          "Føles siden «laggy»? Du faller i søkeresultatene."
+        ],
+        "footnote": "Teknisk ytelse er ikke lenger valgfritt."
+      }
+    }
+  ],
+  "caption": "Google i 2025 er et annet spill enn i 2022.\n\nAI Overviews stjeler klikkene dine. Helpful Content-oppdateringene straffet spam. E-E-A-T krever ekte erfaring. Og teknisk ytelse (INP) er nå en offisiell rangeringsfaktor.\n\nDe fleste norske nettsider er ikke tilpasset noen av disse endringene.\n\nEr din det?",
+  "hashtags": []
+}

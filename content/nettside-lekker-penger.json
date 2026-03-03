@@ -1,0 +1,193 @@
+{
+  "id": "NettsideLekkerPenger",
+  "title": "Nettsiden din lekker penger. Her er 10 tekniske feil som beviser det.",
+  "group": "FERDIGE-INNLEGG",
+  "format": "post",
+  "videoPreset": "standard",
+  "theme": "gray",
+  "gradient": "teal",
+  "slides": [
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "NettsideLekkerPengerHook",
+      "props": {
+        "title": "10 tekniske feil som nettsiden din ikke burde ha",
+        "titleStyle": "normal",
+        "topOffset": 380,
+        "titleSize": 72
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "NettsideLekkerPengerS2",
+      "props": {
+        "number": "1",
+        "title": "Lastetid over 3 sekunder",
+        "titleStyle": "gradient",
+        "body": [
+          "53% av alle mobilbrukere forlater siden din hvis den bruker mer enn 3 sekunder på å laste.",
+          "Amazon mister 1% av salget for hver 100 millisekunder forsinkelse. Det tilsvarer 14 milliarder kroner i året.",
+          "Du merker ikke at siden din er treg. Kundene dine gjør det."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "NettsideLekkerPengerS3",
+      "props": {
+        "number": "2",
+        "title": "For mange tredjepartsskript",
+        "titleStyle": "gradient",
+        "body": [
+          "Chat-widget. Facebook Pixel. Google Analytics. Hotjar. Cookie-banner. Font-script.",
+          "Den gjennomsnittlige nettsiden laster 20 eksterne skript som til sammen veier 449 KB.",
+          "Hvert eneste skript bremser siden. De fleste er usynlige for deg — men merkbare for besøkende.",
+          "Spør deg selv: trenger du virkelig alle sammen?"
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "NettsideLekkerPengerS4",
+      "props": {
+        "number": "3",
+        "title": "Bilder som ikke er komprimert",
+        "titleStyle": "gradient",
+        "body": [
+          "Et ukomprimert hero-bilde på 3 MB tar like lang tid å laste som resten av nettsiden til sammen.",
+          "Samme bilde i WebP-format: 200 KB. Samme kvalitet. 15× lettere.",
+          "De fleste nettsider bruker fortsatt bilder rett fra kameraet eller Canva — uten komprimering, uten riktig format, uten lazy loading.",
+          "Det er den enkleste feilen å fikse — og en av de dyreste å ignorere."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "NettsideLekkerPengerS5",
+      "props": {
+        "number": "4",
+        "title": "Manglende eller utløpt SSL-sertifikat",
+        "titleStyle": "gradient",
+        "body": [
+          "Når nettleseren viser «Ikke sikker» i adressefeltet, faller konverteringen med opptil 70%.",
+          "Det spiller ingen rolle hvor bra innholdet ditt er. Besøkende ser advarselen og stikker — umiddelbart.",
+          "Google straffer deg også i søkeresultatene.",
+          "Sjekk om URL-en din starter med https. Hvis ikke, fiks det i dag."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "NettsideLekkerPengerS6",
+      "props": {
+        "number": "5",
+        "title": "Dårlig Core Web Vitals-score",
+        "titleStyle": "gradient",
+        "body": [
+          "Google måler tre ting på nettsiden din:\n→ LCP: Hvor raskt hovedinnholdet vises.\n→ INP: Hvor raskt siden reagerer på klikk.\n→ CLS: Om elementer hopper rundt mens siden laster.",
+          "Bare 47% av nettsider består alle tre. De som gjør det ser 24% lavere fluktfrekvens og opptil 25% høyere konvertering.",
+          "Du kan sjekke din score gratis på PageSpeed Insights akkurat nå."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "NettsideLekkerPengerS7",
+      "props": {
+        "number": "6",
+        "title": "Ødelagte lenker og 404-feil",
+        "titleStyle": "gradient",
+        "body": [
+          "Annenhver nettside har minst én død lenke.",
+          "77% av brukerne som treffer en 404-side forlater nettsiden — for godt.",
+          "Gamle blogginnlegg. Slettede produktsider. Endrede URL-er uten redirect.",
+          "Hver eneste døde lenke er en lekkasje i salgstrakten din."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "NettsideLekkerPengerS8",
+      "props": {
+        "number": "7",
+        "title": "Ikke mobiloptimalisert",
+        "titleStyle": "gradient",
+        "body": [
+          "55% av all nettrafikk kommer fra mobil. Likevel: for liten tekst, knapper du ikke treffer med tommelen, og layout som krever horisontal scrolling.",
+          "Google indekserer mobilversjonen først. Dårlig mobilopplevelse = lavere rangering OG lavere konvertering.",
+          "Du ser nettsiden din på en stor skjerm. Kundene dine gjør det ikke."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "NettsideLekkerPengerS9",
+      "props": {
+        "number": "8",
+        "title": "Render-blokkerende CSS og JavaScript",
+        "titleStyle": "gradient",
+        "body": [
+          "Før nettleseren kan vise noe som helst, må den laste ferdig alle CSS- og JavaScript-filer i headeren.",
+          "Hvis du har 15 filer som alle må laste synkront, står besøkende og stirrer på en hvit skjerm.",
+          "Pinterest løste dette og fikk 40% kortere ventetid, 15% mer trafikk og 15% høyere konvertering.",
+          "Løsningen: Inline kritisk CSS. Defer alt annet. Fjern det du ikke trenger."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "NettsideLekkerPengerS10",
+      "props": {
+        "number": "9",
+        "title": "Ingen redirect etter endringer",
+        "titleStyle": "gradient",
+        "body": [
+          "Du oppdaterer en URL. Bytter tema. Sletter en side. Migrerer til ny plattform.",
+          "Uten 301-redirects peker alle gamle lenker — fra Google, fra sosiale medier, fra e-poster — til ingenting.",
+          "En bedrift reduserte fluktfrekvensen med 40% bare ved å gjennomgå lenkene sine og sette opp redirects.",
+          "Hver gang du endrer noe: sjekk hva som peker dit."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "NettsideLekkerPengerS11",
+      "props": {
+        "number": "10",
+        "title": "Mobil lastehastighet",
+        "titleStyle": "gradient",
+        "body": [
+          "Mobilsider laster i snitt 70% tregere enn desktop — 8,6 sekunder mot 2,5 sekunder.",
+          "Det betyr at alt du tester og optimaliserer på kontoret kan se helt annerledes ut på kundens telefon.",
+          "Test alltid nettsiden din på mobil. Med 4G. Utenfor kontoret. I virkeligheten."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "CTASlide",
+      "compositionId": "NettsideLekkerPengerS12",
+      "props": {
+        "title": "Disse feilene er usynlige.\nMen de koster deg penger hver dag.",
+        "body": [
+          "Vi sjekker nettsiden din for tekniske lekkasjer — hastighet, Core Web Vitals, mobilytelse, døde lenker og sikkerhet.",
+          "Gratis. Uforpliktende. Konkret.",
+          "Send oss en DM eller besøk mediegruppen.no 👇"
+        ]
+      }
+    }
+  ],
+  "caption": "Nettsiden din ser kanskje bra ut. Men under panseret kan den lekke penger.\n\n53% av mobilbrukere forlater siden hvis den bruker over 3 sekunder.\n77% som treffer en 404-feil kommer aldri tilbake.\nManglende SSL kan kutte konverteringen med 70%.\n\nOg det er bare starten.\n\nI dette innlegget deler vi 10 tekniske feil vi finner på nesten alle nettsidene vi gjennomgår — feil som er usynlige for eieren, men som jager bort kunder.\n\nDet handler ikke om design. Det handler om det som skjer under panseret:\n→ Tredjepartsskript som bremser siden\n→ Bilder som aldri ble komprimert\n→ Døde lenker ingen har sjekket\n→ Core Web Vitals som feiler Googles krav\n\nDet verste? De fleste av disse feilene tar minutter å identifisere og timer å fikse. Men de koster deg kunder hver eneste dag.\n\nVi tilbyr gratis teknisk gjennomgang av nettsiden din. Ingen forpliktelser — bare en konkret rapport med hva som bremser deg.\n\nSend oss en DM for å booke din.",
+  "hashtags": []
+}

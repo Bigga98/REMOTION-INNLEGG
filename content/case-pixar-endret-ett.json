@@ -1,0 +1,85 @@
+{
+  "id": "CasePixarEndretEtt",
+  "title": "Case: Pixar endret ETT ord på nettsiden — fikk 40% flere kunder (A/B-testing)",
+  "group": "INNLEGG-INSTAGRAM-1",
+  "format": "post",
+  "theme": "gray",
+  "gradient": "coral",
+  "slides": [
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "CasePixarEndretEttS1",
+      "props": {
+        "title": "Caser hvor nettsider fikk betydelig økning i salgskonvertering",
+        "titleStyle": "normal",
+        "topOffset": 380,
+        "titleSize": 72
+      }
+    },
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "CasePixarEndretEttHook",
+      "props": {
+        "lines": [
+          {
+            "text": "Pixar endret",
+            "style": "normal"
+          },
+          {
+            "text": "ETT ord.",
+            "style": "gradient",
+            "fontSize": 80,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "Fikk 40% flere kunder."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "CasePixarEndretEttS2",
+      "props": {
+        "title": "Hvordan 5 ord ga Booking.com milliarder i vekst?",
+        "titleStyle": "gradient",
+        "topOffset": 160,
+        "body": [
+          "Psykologiske triggere som knapphet og social proof skaper akutt handlingsbehov."
+        ],
+        "visual": { "type": "socialProof" }
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "CasePixarEndretEttS3",
+      "props": {
+        "title": "Basecamp doblet konverteringen med ett bilde",
+        "titleStyle": "gradient",
+        "body": [
+          "Fra kjedelig tekst til et smilende ansikt — +102% i registreringer.",
+          "Folk kjøper av folk. Noen ganger er «less» ekstremt mye «more»."
+        ],
+        "footnote": "Lærdom: Fjern støy og vis det menneskelige aspektet ved tjenesten din."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "CasePixarEndretEttS4",
+      "props": {
+        "title": "Knappen som var verdt 3 milliarder kroner",
+        "titleStyle": "gradient",
+        "body": [
+          "En av verdens største nettbutikker økte omsetningen med 300 millioner dollar på ett år. Hvordan? De sluttet å tvinge folk til å registrere seg før de betalte.",
+          "Ved å fjerne tvungen registrering og legge til en enkel «Gjestebetaling», økte salget med 45 % umiddelbart."
+        ],
+        "footnote": "Lærdom: Gjør det enkelt for kunden å gi deg pengene sine. Hvert ekstra steg er en sjanse for at de snur."
+      }
+    }
+  ],
+  "caption": "",
+  "hashtags": []
+}

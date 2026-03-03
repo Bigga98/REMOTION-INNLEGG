@@ -1,0 +1,88 @@
+{
+  "id": "XxxxSokerYyyyBransjen",
+  "title": "Over 150 000 søker etter eiendomsmegler i året",
+  "group": "INNLEGG-INSTAGRAM-1",
+  "format": "post",
+  "videoPreset": "extended",
+  "theme": "hvitLilla",
+  "gradient": "bluePurple",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "XxxxSokerYyyyBransjenHook",
+      "props": {
+        "lines": [
+          {
+            "text": "Over 79 000 søker",
+            "style": "normal",
+            "fontSize": 40,
+            "fontWeight": 400,
+            "cycle": ["Over 79 000 søker", "Over 53 000 søker", "Over 18 000 søker"]
+          },
+          {
+            "text": "eiendomsmegler",
+            "style": "gradient",
+            "fontSize": 76,
+            "fontWeight": 700,
+            "cycle": ["eiendomsmegler", "verdivurdering bolig", "eiendomsmegler oslo"],
+            "cycleGradients": [
+              "linear-gradient(90deg, #5B6BF5, #7C3AED)",
+              "linear-gradient(90deg, #0EA5E9, #06B6D4)",
+              "linear-gradient(90deg, #F97316, #EF4444)"
+            ]
+          },
+          {
+            "text": "hvert år.",
+            "style": "normal",
+            "fontSize": 50,
+            "fontWeight": 500
+          }
+        ],
+        "subtext": "Finner de deg — eller konkurrenten?"
+      }
+    },
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "XxxxSokerYyyyBransjenS2",
+      "props": {
+        "lines": [
+          {
+            "text": "Søketallene",
+            "style": "gradient",
+            "fontSize": 58,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "Månedlige søk i Norge",
+        "visual": { "type": "searchVolume" }
+      }
+    },
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "XxxxSokerYyyyBransjenS3",
+      "props": {
+        "lines": [
+          {
+            "text": "Vi sjekker",
+            "style": "normal",
+            "fontSize": 46,
+            "fontWeight": 500
+          },
+          {
+            "text": "synligheten din.",
+            "style": "gradient",
+            "fontSize": 58,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "Gratis SEO-analyse med konkrete anbefalinger.",
+        "visual": { "type": "seoReport" }
+      }
+    }
+  ],
+  "caption": "",
+  "hashtags": []
+}

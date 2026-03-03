@@ -1,0 +1,82 @@
+{
+  "id": "KonverteringsrateKontrast",
+  "title": "14,6% vs. 1,7% — Kunder fra Google kjøper 8× oftere enn kalde leads",
+  "group": "INNLEGG-INSTAGRAM-1",
+  "format": "post",
+  "videoPreset": "long",
+  "theme": "hvitLilla",
+  "gradient": "bluePurple",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "KonverteringsrateKontrastHook",
+      "props": {
+        "lines": [
+          {
+            "text": "Kunder fra Google",
+            "style": "normal",
+            "fontSize": 58,
+            "fontWeight": 500
+          },
+          {
+            "text": "kjøper 8× oftere.",
+            "style": "gradient",
+            "fontSize": 64,
+            "fontWeight": 600
+          }
+        ],
+        "visual": { "type": "counterContrast" }
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "KonverteringsrateKontrastS2",
+      "props": {
+        "title": "Hvorfor så stor forskjell?",
+        "titleStyle": "gradient",
+        "body": [
+          "Folk som finner deg via Google søker aktivt etter det du tilbyr. De er allerede klare til å kjøpe.",
+          "Kald-ringing treffer folk som ikke har bedt om det — og 98 av 100 sier nei."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ListSlide",
+      "compositionId": "KonverteringsrateKontrastS3",
+      "props": {
+        "title": "Slik blir du synlig i Google",
+        "titleStyle": "gradient",
+        "items": [
+          {
+            "title": "Nettside optimalisert for søk",
+            "desc": "Riktig struktur, raske lastetider, mobilvennlig design."
+          },
+          {
+            "title": "Innhold folk faktisk søker etter",
+            "desc": "Bruk ordene kundene dine bruker når de googler."
+          },
+          {
+            "title": "Lokalt synlig",
+            "desc": "Google My Business, anmeldelser, og lokal SEO."
+          }
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "CTASlide",
+      "compositionId": "KonverteringsrateKontrastS4",
+      "props": {
+        "title": "Vil du bli funnet?",
+        "badge": "SEO",
+        "instruction": "Vi sjekker nettsiden din gratis:",
+        "description": "Send oss URL-en din — vi forteller deg hva som kan forbedres."
+      }
+    }
+  ],
+  "caption": "Visste du at folk som finner deg via Google har 8× større sjanse for å bli kunde?\n\n14,6% av de som finner bedriften din på Google ender opp som kunder. Bare 1,7% av de du ringer opp gjør det samme.\n\nForskjellen? De som googler leter aktivt etter det du tilbyr. De har allerede bestemt seg for at de trenger hjelp — de trenger bare å finne deg.\n\nDe du ringer opp? De satt og spiste middag.\n\nTre ting som gjør at du dukker opp når folk søker:\n1. En nettside som er bygget for å bli funnet\n2. Innhold med ordene kundene dine faktisk googler\n3. Lokal synlighet — Google-profil og anmeldelser\n\nLa kundene finne deg — ikke omvendt.\n\nLagre dette innlegget 👆",
+  "hashtags": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "AnimasjonNinjaflowTrustlyStil",
+  "title": "Animasjon som NinjaFlow (Trustly-stil) + UI design + PageSpeed-garanti",
+  "group": "INNLEGG-INSTAGRAM-1",
+  "format": "post",
+  "theme": "gray",
+  "gradient": "coral",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "AnimasjonNinjaflowTrustlyStilHook",
+      "props": {
+        "lines": [
+          {
+            "text": "NinjaFlow-",
+            "style": "normal"
+          },
+          {
+            "text": "kvalitet.",
+            "style": "gradient",
+            "fontSize": 80,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "UI design + animasjon + hastighet."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "AnimasjonNinjaflowTrustlyStilS2",
+      "props": {
+        "title": "Inspirert av de beste",
+        "titleStyle": "gradient",
+        "body": [
+          "Trustly, Stripe, Linear — nettsider som kombinerer design og teknologi. Vi bygger det samme for norske bedrifter."
+        ],
+        "footnote": "PageSpeed-garanti inkludert."
+      }
+    },
+    {
+      "type": "still",
+      "template": "CTASlide",
+      "compositionId": "AnimasjonNinjaflowTrustlyStilS3",
+      "props": {
+        "title": "Vil du ha verdensklasse-design?",
+        "badge": "PREMIUM",
+        "instruction": "Send oss en DM:",
+        "description": "Vi bygger nettsider i toppklasse."
+      }
+    }
+  ],
+  "caption": "",
+  "hashtags": []
+}

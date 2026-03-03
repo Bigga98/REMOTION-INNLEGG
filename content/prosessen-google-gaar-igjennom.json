@@ -1,0 +1,115 @@
+{
+  "id": "ProsessenGoogleGaarIgjennom",
+  "title": "Prosessen Google går igjennom for å velge ut toppresultater",
+  "group": "INNLEGG-INSTAGRAM-1",
+  "format": "post",
+  "videoPreset": "extended",
+  "theme": "hvitLilla",
+  "gradient": "bluePurple",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "ProsessenGoogleGaarIgjennomHook",
+      "props": {
+        "lines": [
+          {
+            "text": "Slik velger Google",
+            "style": "normal",
+            "fontSize": 48,
+            "fontWeight": 500
+          },
+          {
+            "text": "toppresultater.",
+            "style": "gradient",
+            "fontSize": 68,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "Prosessen de fleste ikke kjenner til.",
+        "visual": { "type": "google" }
+      }
+    },
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "ProsessenGoogleGaarIgjennomS2",
+      "props": {
+        "lines": [
+          {
+            "text": "Tre steg",
+            "style": "gradient",
+            "fontSize": 58,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "Crawl → Index → Rank",
+        "visual": { "type": "crawlFlow" }
+      }
+    },
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "ProsessenGoogleGaarIgjennomS3",
+      "props": {
+        "lines": [
+          {
+            "text": "God SEO =",
+            "style": "normal",
+            "fontSize": 46,
+            "fontWeight": 500
+          },
+          {
+            "text": "bedre plassering.",
+            "style": "gradient",
+            "fontSize": 58,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "Over tid klatrer siden din oppover i Google.",
+        "visual": { "type": "searchConsole" }
+      }
+    },
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "ProsessenGoogleGaarIgjennomS4",
+      "props": {
+        "lines": [
+          {
+            "text": "Google sjekker over",
+            "style": "normal",
+            "fontSize": 48,
+            "fontWeight": 500
+          }
+        ],
+        "visual": { "type": "factorGrid" }
+      }
+    },
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "ProsessenGoogleGaarIgjennomS5",
+      "props": {
+        "lines": [
+          {
+            "text": "Vi sjekker dem",
+            "style": "normal",
+            "fontSize": 46,
+            "fontWeight": 500
+          },
+          {
+            "text": "for deg — gratis.",
+            "style": "gradient",
+            "fontSize": 58,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "5 sider med konkrete funn og anbefalinger.",
+        "visual": { "type": "seoReport" }
+      }
+    }
+  ],
+  "caption": "",
+  "hashtags": []
+}

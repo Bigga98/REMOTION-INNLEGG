@@ -1,0 +1,37 @@
+{
+  "id": "UsikkerTrengerNettsideHva",
+  "title": "Usikker på om du trenger ny nettside? Se hva du kan få før du bestemmer deg",
+  "group": "INNLEGG-INSTAGRAM-1",
+  "format": "post",
+  "videoPreset": "extended",
+  "theme": "hvitLilla",
+  "gradient": "blue",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "UsikkerTrengerNettsideHvaHook",
+      "props": {
+        "centerText": true,
+        "titleExitFrame": 170,
+        "visualDelay": 200,
+        "lines": [
+          {
+            "text": "Usikker på om du trenger",
+            "style": "normal"
+          },
+          {
+            "text": "ny nettside?",
+            "style": "gradient",
+            "fontSize": 72,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "Se hva du kan få — før du bestemmer deg.",
+        "visual": { "type": "gratisUtkast" }
+      }
+    }
+  ],
+  "caption": "Du vet kanskje at nettsiden din burde oppdateres. Men du vet ikke hva du faktisk kan få.\n\nDerfor tilbyr vi et gratis designutkast — uten forpliktelser.\n\nSlik fungerer det:\n1. Gå til mediegruppen.no\n2. Skriv inn nettadressen din\n3. Vi sender deg et utkast på e-post innen 24 timer\n\nDu ser hva nettsiden din kan bli. Liker du det? Da tar vi en prat. Liker du det ikke? Ingen problem.\n\nLagre dette innlegget til du er klar 👆",
+  "hashtags": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "MediegruppenSetterNyeStandarder",
+  "title": "Mediegruppen setter nye standarder for nettsider →",
+  "group": "INNLEGG-INSTAGRAM-1",
+  "format": "post",
+  "theme": "gray",
+  "gradient": "coral",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "MediegruppenSetterNyeStandarderHook",
+      "props": {
+        "lines": [
+          {
+            "text": "Vi setter",
+            "style": "normal"
+          },
+          {
+            "text": "nye standarder.",
+            "style": "gradient",
+            "fontSize": 68,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "For nettsider i 2026."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "MediegruppenSetterNyeStandarderS2",
+      "props": {
+        "title": "Hva vi gjør annerledes",
+        "titleStyle": "gradient",
+        "body": [
+          "Vi bygger nettsider som er raske, søkemotoroptimaliserte og designet for å konvertere besøkende til kunder."
+        ],
+        "footnote": "Ikke bare pene — effektive."
+      }
+    },
+    {
+      "type": "still",
+      "template": "CTASlide",
+      "compositionId": "MediegruppenSetterNyeStandarderS3",
+      "props": {
+        "title": "Vil du se hva vi kan gjøre for deg?",
+        "badge": "MEDIEGRUPPEN",
+        "instruction": "Send oss en DM:",
+        "description": "Vi viser deg mulighetene — helt uforpliktende."
+      }
+    }
+  ],
+  "caption": "",
+  "hashtags": []
+}

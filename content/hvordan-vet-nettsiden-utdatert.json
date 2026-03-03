@@ -1,0 +1,56 @@
+{
+  "id": "HvordanVetNettsidenUtdatert",
+  "title": "Hvordan vet du om nettsiden din er utdatert?",
+  "group": "INNLEGG-INSTAGRAM-1",
+  "format": "post",
+  "theme": "gray",
+  "gradient": "coral",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "HvordanVetNettsidenUtdatertHook",
+      "props": {
+        "lines": [
+          {
+            "text": "Hvordan vet du om",
+            "style": "normal"
+          },
+          {
+            "text": "nettsiden din er utdatert?",
+            "style": "gradient",
+            "fontSize": 58,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "5 tegn du bør se etter."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "HvordanVetNettsidenUtdatertS2",
+      "props": {
+        "title": "Tegn på en utdatert nettside",
+        "titleStyle": "gradient",
+        "body": [
+          "Den er ikke mobilvennlig, laster sakte, bruker gammel design, eller mangler SSL-sertifikat."
+        ],
+        "footnote": "De fleste merker det ikke selv."
+      }
+    },
+    {
+      "type": "still",
+      "template": "CTASlide",
+      "compositionId": "HvordanVetNettsidenUtdatertS3",
+      "props": {
+        "title": "Usikker på din nettside?",
+        "badge": "SJEKK",
+        "instruction": "Send oss lenken din:",
+        "description": "Vi gir deg en ærlig vurdering — helt gratis."
+      }
+    }
+  ],
+  "caption": "",
+  "hashtags": []
+}

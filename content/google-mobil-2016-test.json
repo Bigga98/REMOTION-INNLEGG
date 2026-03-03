@@ -1,0 +1,73 @@
+{
+  "id": "GoogleMobil2016Test",
+  "title": "Google tester nettsiden din på en telefon fra 2016 — med vilje",
+  "group": "FERDIGE-INNLEGG",
+  "format": "post",
+  "videoPreset": "standard",
+  "theme": "gray",
+  "gradient": "coral",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "GoogleMobil2016TestHook",
+      "props": {
+        "lines": [
+          {
+            "text": "Google tester nettsiden din",
+            "style": "normal",
+            "fontSize": 52,
+            "fontWeight": 500
+          },
+          {
+            "text": "på en telefon fra 2016.",
+            "style": "gradient",
+            "fontSize": 58,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "Med vilje."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "GoogleMobil2016TestS2",
+      "props": {
+        "title": "60% av besøkende kommer fra mobil",
+        "titleStyle": "gradient",
+        "body": [
+          "Men mobilen din har en brøkdel av PC-ens kraft — den bremser ned når den blir varm, har tregere nett, og må jobbe hardere for å vise samme side.",
+          "Google tester nettsiden din med simulert mobiltelefon fra 2016. Med vilje."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "GoogleMobil2016TestS3",
+      "props": {
+        "title": "Google rangerer deg basert på mobilversjonen — ikke desktop",
+        "titleStyle": "gradient",
+        "body": [
+          "53% forlater siden din hvis den bruker over 3 sekunder. Hvert ekstra sekund koster deg 8% flere som forsvinner."
+        ]
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "GoogleMobil2016TestS4",
+      "props": {
+        "title": "Problemet?",
+        "titleStyle": "gradient",
+        "body": [
+          "De fleste nettsider er bygd for desktop og tilpasset mobil etterpå. WordPress-temaer laster mengder med kode som en PC tåler fint, men som kveler en mobilprosessor.",
+          "Løsningen er å bygge for mobil fra starten — lett kode, optimaliserte bilder, minimal JavaScript."
+        ]
+      }
+    }
+  ],
+  "caption": "Google bruker en simulert telefon fra 2016 når de vurderer nettsiden din. Ikke fordi de er gammeldagse — men fordi det er virkeligheten for mange av kundene dine.\n\n60% av trafikken kommer fra mobil. 53% forlater siden etter 3 sekunder. Hvert ekstra sekund koster 8% av de besøkende.\n\nDe fleste nettsider er bygd for desktop og tilpasset mobil etterpå. Det holder ikke lenger.\n\nLagre dette — og sjekk hvordan din side scorer.",
+  "hashtags": []
+}

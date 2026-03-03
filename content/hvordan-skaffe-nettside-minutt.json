@@ -1,0 +1,56 @@
+{
+  "id": "HvordanSkaffeNettsideMinutt",
+  "title": "Hvordan skaffe en nettside på et minutt",
+  "group": "INNLEGG-INSTAGRAM-1",
+  "format": "post",
+  "theme": "gray",
+  "gradient": "coral",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "HvordanSkaffeNettsideMinuttHook",
+      "props": {
+        "lines": [
+          {
+            "text": "Nettside på",
+            "style": "normal"
+          },
+          {
+            "text": "ett minutt.",
+            "style": "gradient",
+            "fontSize": 72,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "Er det mulig?"
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "HvordanSkaffeNettsideMinuttS2",
+      "props": {
+        "title": "Sannheten",
+        "titleStyle": "gradient",
+        "body": [
+          "AI-verktøy kan lage en nettside på sekunder. Men en nettside som faktisk konverterer krever strategi, design og testing."
+        ],
+        "footnote": "Rask ≠ god."
+      }
+    },
+    {
+      "type": "still",
+      "template": "CTASlide",
+      "compositionId": "HvordanSkaffeNettsideMinuttS3",
+      "props": {
+        "title": "Vil du ha en nettside som faktisk fungerer?",
+        "badge": "KVALITET",
+        "instruction": "Send oss en DM:",
+        "description": "Vi bygger nettsider som gir resultater."
+      }
+    }
+  ],
+  "caption": "",
+  "hashtags": []
+}

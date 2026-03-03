@@ -1,0 +1,56 @@
+{
+  "id": "WordpressWixFramerHastigheten",
+  "title": "WordPress, Wix, Framer — her er hastigheten til verdens største nettside-verktøy",
+  "group": "INNLEGG-INSTAGRAM-1",
+  "format": "post",
+  "theme": "gray",
+  "gradient": "coral",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "WordpressWixFramerHastighetenHook",
+      "props": {
+        "lines": [
+          {
+            "text": "WordPress vs Wix vs",
+            "style": "normal"
+          },
+          {
+            "text": "Framer.",
+            "style": "gradient",
+            "fontSize": 80,
+            "fontWeight": 600
+          }
+        ],
+        "subtext": "Hvem vinner på hastighet?"
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "WordpressWixFramerHastighetenS2",
+      "props": {
+        "title": "Hastighetstest",
+        "titleStyle": "gradient",
+        "body": [
+          "Vi testet de største plattformene. Resultatene overrasker — det dyreste er ikke alltid det raskeste."
+        ],
+        "footnote": "Hastighet = Google-rangering."
+      }
+    },
+    {
+      "type": "still",
+      "template": "CTASlide",
+      "compositionId": "WordpressWixFramerHastighetenS3",
+      "props": {
+        "title": "Hvilken plattform bruker du?",
+        "badge": "PLATTFORM",
+        "instruction": "Skriv PLATTFORM i kommentarfeltet:",
+        "description": "Vi sjekker hastigheten til din nettside."
+      }
+    }
+  ],
+  "caption": "",
+  "hashtags": []
+}

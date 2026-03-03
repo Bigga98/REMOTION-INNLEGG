@@ -1,0 +1,56 @@
+{
+  "id": "2StegBedreVersjon",
+  "title": "2 steg for å se en bedre versjon av nettsiden din → send inn URL, få gratis utkast",
+  "group": "INNLEGG-INSTAGRAM-1",
+  "format": "post",
+  "theme": "gray",
+  "gradient": "coral",
+  "slides": [
+    {
+      "type": "video",
+      "template": "HookSlide",
+      "compositionId": "2StegBedreVersjonHook",
+      "props": {
+        "lines": [
+          {
+            "text": "2 steg",
+            "style": "gradient",
+            "fontSize": 80,
+            "fontWeight": 600
+          },
+          {
+            "text": "til en bedre nettside.",
+            "style": "normal"
+          }
+        ],
+        "subtext": "Send URL → få gratis utkast."
+      }
+    },
+    {
+      "type": "still",
+      "template": "ContentSlide",
+      "compositionId": "2StegBedreVersjonS2",
+      "props": {
+        "title": "Så enkelt er det",
+        "titleStyle": "gradient",
+        "body": [
+          "Steg 1: Send oss lenken til nettsiden din. Steg 2: Vi lager et gratis designutkast du kan vurdere."
+        ],
+        "footnote": "Ingen binding. Ingen risiko."
+      }
+    },
+    {
+      "type": "still",
+      "template": "CTASlide",
+      "compositionId": "2StegBedreVersjonS3",
+      "props": {
+        "title": "Klar for å se forskjellen?",
+        "badge": "2 STEG",
+        "instruction": "Send URL i DM:",
+        "description": "Få et gratis utkast innen 48 timer."
+      }
+    }
+  ],
+  "caption": "",
+  "hashtags": []
+}
