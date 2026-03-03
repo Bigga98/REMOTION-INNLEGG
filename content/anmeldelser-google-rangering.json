@@ -12,9 +12,10 @@
       "template": "ContentSlide",
       "compositionId": "AnmeldelserGoogleRangeringHook",
       "props": {
-        "title": "Et treningssenter gikk fra 21 til 240 anmeldelser. De ble nr. 1 på Google. På 90 dager.",
+        "title": "Et treningssenter gikk fra 21 til 240 anmeldelser.",
         "titleStyle": "normal",
-        "topOffset": 380,
+        "subtitle": "De ble nr. 1 på Google. På 90 dager.",
+        "topOffset": 280,
         "titleSize": 72
       }
     },
