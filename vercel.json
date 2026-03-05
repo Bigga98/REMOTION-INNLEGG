@@ -1,4 +1,5 @@
 {
+  "buildCommand": "npx remotion bundle src/index.js --output-dir=build",
   "outputDirectory": "build",
   "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
 }

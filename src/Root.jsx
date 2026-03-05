@@ -39,10 +39,6 @@ import { GoLiveAnimation } from "./GoLiveAnimation";
 import { WebShowcase } from "./WebShowcase";
 import { MgBrandPalett } from "./MgBrandPalett";
 import { NyesteNettsider } from "./NyesteNettsider";
-import { NettsiderSlideIn } from "./NettsiderSlideIn";
-import { NettsiderScalePop } from "./NettsiderScalePop";
-import { NettsiderFadeBlur } from "./NettsiderFadeBlur";
-import { NettsiderFadeBlurClean } from "./NettsiderFadeBlurClean";
 import { SortLyseblaPalett } from "./SortLyseblaPalett";
 import { SortKremGronnPalett } from "./SortKremGronnPalett";
 
@@ -88,6 +84,7 @@ import { IphoneSolbord } from "./IphoneSolbord";
 import { IphoneVillmark } from "./IphoneVillmark";
 import { IphoneVillmarkDouble } from "./IphoneVillmarkDouble";
 import { IphoneTannlege } from "./IphoneTannlege";
+import { BlancSkjerm } from "./BlancSkjerm";
 import { IphonePels } from "./IphonePels";
 import { allContent, instagram1Content, ferdigeContent } from "../content";
 import { formats } from "./config/formats";
@@ -124,53 +121,23 @@ export const RemotionRoot = () => {
           height={1080}
         />
         <Still
+          id="Blanc-Skjerm"
+          component={BlancSkjerm}
+          width={1080}
+          height={2340}
+        />
+        <Still
           id="I23-IphonePels"
           component={IphonePels}
           width={1080}
           height={1080}
         />
-        <Folder name="OppdaterNettsiden">
+        <Folder name="I1-OppdaterNettsiden">
           <Composition
-            id="OppdaterNettsiden"
+            id="I1-OppdaterNettsiden"
             component={NyesteNettsider}
             durationInFrames={240}
             fps={30}
-            width={2160}
-            height={2160}
-          />
-        </Folder>
-        <Folder name="NettsiderSomSelger">
-          <Composition
-            id="NettsiderSomSelger"
-            component={NettsiderSlideIn}
-            durationInFrames={240}
-            fps={30}
-            width={2160}
-            height={2160}
-          />
-        </Folder>
-        <Folder name="DinNesteNettside">
-          <Composition
-            id="DinNesteNettside"
-            component={NettsiderScalePop}
-            durationInFrames={240}
-            fps={30}
-            width={2160}
-            height={2160}
-          />
-        </Folder>
-        <Folder name="FraIdeTilNettside">
-          <Composition
-            id="FraIdeTilNettside"
-            component={NettsiderFadeBlur}
-            durationInFrames={240}
-            fps={30}
-            width={2160}
-            height={2160}
-          />
-          <Still
-            id="FraIdeTilNettsideClean"
-            component={NettsiderFadeBlurClean}
             width={2160}
             height={2160}
           />
