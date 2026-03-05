@@ -1,0 +1,22 @@
+{
+  "id": "I19-IphoneRestaurant",
+  "title": "I19 — iPhone mockup restaurant (Solbord)",
+  "group": "FERDIGE-INNLEGG",
+  "format": "post",
+  "theme": "gray",
+  "gradient": "teal",
+  "slides": [
+    {
+      "type": "still",
+      "template": "ImageSlide",
+      "compositionId": "I19IphoneRestaurant",
+      "props": {
+        "imageSrc": "iphone-solbord.png",
+        "bg": "#BDB09B",
+        "fit": "contain"
+      }
+    }
+  ],
+  "caption": "",
+  "hashtags": []
+}

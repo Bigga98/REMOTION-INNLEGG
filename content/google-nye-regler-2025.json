@@ -12,6 +12,7 @@
       "template": "HookSlide",
       "compositionId": "GoogleNyeRegler2025Hook",
       "props": {
+        "textTop": 380,
         "lines": [
           {
             "text": "Google er ikke det samme",

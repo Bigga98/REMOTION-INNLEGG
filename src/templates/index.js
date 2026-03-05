@@ -10,6 +10,7 @@ export { ComparisonSlide } from "./ComparisonSlide";
 export { CTASlide } from "./CTASlide";
 export { SinglePost } from "./SinglePost";
 export { WireframeSlide } from "./WireframeSlide";
+export { ImageSlide } from "./ImageSlide";
 
 // Template-map for dynamisk oppslag fra JSON
 import { HookSlide } from "./HookSlide";
@@ -19,6 +20,7 @@ import { ComparisonSlide } from "./ComparisonSlide";
 import { CTASlide } from "./CTASlide";
 import { SinglePost } from "./SinglePost";
 import { WireframeSlide } from "./WireframeSlide";
+import { ImageSlide } from "./ImageSlide";
 
 export const templateMap = {
   HookSlide,
@@ -28,4 +30,5 @@ export const templateMap = {
   CTASlide,
   SinglePost,
   WireframeSlide,
+  ImageSlide,
 };

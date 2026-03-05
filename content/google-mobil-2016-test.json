@@ -12,6 +12,7 @@
       "template": "HookSlide",
       "compositionId": "GoogleMobil2016TestHook",
       "props": {
+        "textTop": 380,
         "lines": [
           {
             "text": "Google tester nettsiden din",

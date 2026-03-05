@@ -12,6 +12,7 @@
       "template": "HookSlide",
       "compositionId": "DenDyresteTekstboksenHook",
       "props": {
+        "textTop": 380,
         "lines": [
           {
             "text": "Ett skjemafelt kostet dette selskapet",

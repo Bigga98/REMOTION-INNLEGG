@@ -80,8 +80,15 @@ import {
   GAStackedChart,
 } from "./BILDER";
 
+import { MediegrpuppenLogo } from "./MediegrpuppenLogo";
+
 // --- Template-system ---
 import { ContentRenderer } from "./ContentRenderer";
+import { IphoneSolbord } from "./IphoneSolbord";
+import { IphoneVillmark } from "./IphoneVillmark";
+import { IphoneVillmarkDouble } from "./IphoneVillmarkDouble";
+import { IphoneTannlege } from "./IphoneTannlege";
+import { IphonePels } from "./IphonePels";
 import { allContent, instagram1Content, ferdigeContent } from "../content";
 import { formats } from "./config/formats";
 import { videoPresets } from "./config/presets";
@@ -92,6 +99,36 @@ export const RemotionRoot = () => {
     <>
       {/* --- FERDIGE INNLEGG --- */}
       <Folder name="FERDIGE-INNLEGG">
+        <Still
+          id="I19-IphoneSolbord"
+          component={IphoneSolbord}
+          width={1080}
+          height={1080}
+        />
+        <Still
+          id="I20-IphoneVillmark"
+          component={IphoneVillmark}
+          width={1080}
+          height={1080}
+        />
+        <Still
+          id="I21-IphoneVillmarkDouble"
+          component={IphoneVillmarkDouble}
+          width={1080}
+          height={1350}
+        />
+        <Still
+          id="I22-IphoneTannlege"
+          component={IphoneTannlege}
+          width={1080}
+          height={1080}
+        />
+        <Still
+          id="I23-IphonePels"
+          component={IphonePels}
+          width={1080}
+          height={1080}
+        />
         <Folder name="OppdaterNettsiden">
           <Composition
             id="OppdaterNettsiden"
@@ -260,6 +297,16 @@ export const RemotionRoot = () => {
 
       {/* --- Alt annet --- */}
       <Folder name="Eldre-Innlegg">
+
+      {/* Logo */}
+      <Folder name="Logo">
+        <Still
+          id="MediegrpuppenLogo"
+          component={MediegrpuppenLogo}
+          width={2160}
+          height={2160}
+        />
+      </Folder>
 
       {/* Fargepaletter */}
       <Folder name="Fargepaletter">

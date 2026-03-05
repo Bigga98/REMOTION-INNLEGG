@@ -4,6 +4,8 @@
 // Video-slide med animert tekst, valgfri visuell effekt, og pil.
 
 import React from "react";
+import { loadFont as loadRobotoMono } from "@remotion/google-fonts/RobotoMono";
+const { fontFamily: robotoMono } = loadRobotoMono();
 import {
   useCurrentFrame,
   useVideoConfig,
@@ -1521,9 +1523,18 @@ const FactorGridVisual = ({ frame, fps, config, accent, delay = 40 }) => {
       }}
     >
       {/* Animated counter */}
-      <div style={{ display: "flex", alignItems: "baseline", gap: 4 }}>
-        <span style={{ fontSize: 80, fontFamily: "'Satoshi', sans-serif", fontWeight: 700, color: accent }}>
+      <div style={{ display: "flex", alignItems: "baseline", gap: 10 }}>
+        <span style={{
+          fontSize: 80, fontFamily: "'Satoshi', sans-serif", fontWeight: 700, color: accent,
+          display: "inline-block", width: 200, textAlign: "right",
+        }}>
           {counterVal}+
+        </span>
+        <span style={{
+          fontSize: 32, fontFamily: robotoMono, fontWeight: 400,
+          color: accent, opacity: 0.8,
+        }}>
+          faktorer
         </span>
       </div>
 

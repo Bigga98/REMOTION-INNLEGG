@@ -18,26 +18,6 @@
       }
     },
     {
-      "type": "video",
-      "template": "HookSlide",
-      "compositionId": "CasePixarEndretEttHook",
-      "props": {
-        "lines": [
-          {
-            "text": "Pixar endret",
-            "style": "normal"
-          },
-          {
-            "text": "ETT ord.",
-            "style": "gradient",
-            "fontSize": 80,
-            "fontWeight": 600
-          }
-        ],
-        "subtext": "Fikk 40% flere kunder."
-      }
-    },
-    {
       "type": "still",
       "template": "ContentSlide",
       "compositionId": "CasePixarEndretEttS2",
